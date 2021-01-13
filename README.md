@@ -11,7 +11,7 @@ Lorena Casanova Lozano
 * ***processed_data.xlsx*** -> Fitxer excel amb les dades ja processades preparat per llegir amb l'eina de visualització 
 * ***ProcessatDades_PAC4.ipynb*** -> Codi amb la neteja i el processament de les dades
 * ***ProcessatDades_PAC4.html*** -> Fitxer html resultant amb la neteja i el processament de les dades
-* ***PAC4_VisualitzacioDades_LorenaCasanova*** -> Document de la pràctica 
+* ***PAC4_VisualitzacioDades_LorenaCasanova.pdf*** -> Document de la pràctica 
 * ***Visualització_PAX.twb*** -> Llibre de treball realitzat amb l'eina Tableau Desktop
 * ***URL de la visualització*** -> https://public.tableau.com/views/AcordsdePausobreViolnciadeGnereentrePasos/Historia1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link 
 
