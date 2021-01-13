@@ -1,0 +1,1274 @@
+﻿Con,Contp,PP,PPName,Reg,AgtId,Ver,Agt,Dat,Status,Lgt,N_characters,Agtp,Stage,StageSub,Part,ThrdPart,OthAgr,Loc1ISO,Loc2ISO,Loc1GWNO,Loc2GWNO,UcdpCon,UcdpAgr,PamAgr,CowWar,GCh,GChRhet,GChAntid,GChSubs,GChOth,GDis,GDisRhet,GDisAntid,GDisSubs,GDisOth,GAge,GAgeRhet,GAgeAntid,GAgeSubs,GAgeOth,GMig,GMigRhet,GMigAntid,GMigSubs,GMigOth,GRa,GRaRhet,GRaAntid,GRaSubs,GRaOth,GRe,GReRhet,GReAntid,GReSubs,GReOth,GInd,GIndRhet,GIndAntid,GIndSubs,GIndOth,GOth,GOthRhet,GOthAntid,GOthSubs,GOthOth,GRef,GRefRhet,GRefSubs,GRefOth,GSoc,GSocRhet,GSocAntid,GSocSubs,GSocOth,GeWom,GeMe,GeMeNu,GeMeOth,GeLgbti,GeLgbtiPos,GeLgbtiNeg,GeFa,StDef,StGen,StCon,StSd,StRef,StSym,StInd,StUni,StBor,StXbor,Pol,PolGen,PolNewInd,PolNewTemp,ConRen,Cons,Ele,ElecComm,PolPar,PolParTrans,PolParOth,Civso,Tral,Pubad,Polps,PpsSt,PpsSub,PpsEx,PpsOro,PpsOthPr,PpsVet,PpsAut,PpsInt,PpsOth,Terps,TpsSub,TpsLoc,TpsAut,TpsOth,Eps,EpsRes,EpsFis,EpsOth,Mps,MpsMe,MpsJt,MpsPro,MpsOth,HrGen,EqGen,HrDem,Prot,ProtCiv,ProtGrp,ProtLgl,ProtOth,HrFra,HrfSp,HrfBor,HrfTinc,HrfOth,HrCp,CprLife,CprTort,CprEq,CprSlav,CprLib,CprDet,CprFmov,CprFspe,CprFass,CprTria,CprPriv,CprVote,CprReli,CprOth,HrSec,SerProp,SerWork,SerHeal,SerEdu,SerStdl,SerShel,SerSs,SerCult,SerOth,HrNi,HrNiMe,HrNiNe,HrNiOth,HrIi,HrIiMon,HrIiBod,HrIiOth,HrMob,HrDet,Med,MedGov,MedSubs,MedLog,MedOth,HrCit,CitGen,CitRights,CitDef,CitOth,JusCr,JusCrSp,JusCrSys,JusCrPow,JusEm,JusJu,JusPri,JusTra,Dev,DevSoc,DevHum,DevInfra,NEC,NatRes,IntFu,Bus,Tax,TaxPo,TaxRef,TaxOth,Ban,CenBan,BanPers,BanInt,BanXb,LaRef,LaRefMan,LaRefRet,LaRefOth,LaNom,LaCH,LaCHTa,LaCHIt,LaCHPro,LaCHOth,LaEn,Wat,SsrGua,Ce,CeProv,CeGen,SsrPol,SsrArm,SsrDdr,DdrDemil,DdrProg,SsrInt,SsrPsf,SsrFf,Cor,SsrCrOcr,SsrDrugs,Terr,TjGen,TjAm,TjAmPro,TjSan,TjPower,TjAmBan,TjCou,TjJaNc,TjJaIc,TjMech,TjPrire,TjVet,TjVic,TjMis,TjRep,TjRSym,TjRMa,TjNR,ImUN,ImOth,ImRef,ImPK,ImE,ImSrc
+Afghanistan,Government/territory,2,"Afghanistan: 2000s Post-intervention process","Europe and Eurasia",2232,3,"Resolution of Intra Afghan Peace Conference in Doha, Qatar (Doha Roadmap for Peace)",2019-07-08,"Multiparty signed/agreed",2,5235,Intra,Pre,PreMix,"Stated to be Participants to the Afghan Peace Conference.
+(secondary sources suggest that 62 participants were present, 17 of whom were members of the Taliban. On the Afghan-Kabul side, some participants were women). Same source suggests that the resolution was drafted by 6 Kabul representatives and 3 of the Taliban. ","Qatar
+German Government 
+United Nations
+USA
+Countries in the region ","Page 2, 8:
+8. We acknowledge and approve the recent resolution of intra afghan conference held on 6 Feb 2019 in Moscow and urge the Islamic Conference. UN, Security Council, neighboring countries to support the peace conferences held in Moscow and Doha",AFG,,700,,333,NA,NA,225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Angola/Cabinda ",Government/territory,137,"Cabinda process","Africa (excl MENA)",1336,1,"Memorandum of Peace and Understanding in Cabinda Province",2006-08-01,"Multiparty signed/agreed",75,194252,Intra,SubComp,FrAg,"Note: The agreement does not have any signatories, however the preamble states that the peace plan is the product of the Government of the Republic of Angola and the
+Cabinda Forum for Dialogue","Witnessed by representatives of the Episcopal Conference of Angola and Sao Tome,
+representatives of the Council of Christian Churches of Angola and representatives of the Inter-Ecclesiastical Council for Peace in Angol.",,AGO,,540,,387,1353,,907,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,3,1,0,0,3,3,2,1,1,1,0,1,1,1,3,0,1,1,0,0,0,0,0,1,3,0,1,1,0,3,1,1,0,3,1,1,1,0,1,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,3,3,1,0,0,1,0,1,0,0,1,1,0,0,0,1,1,0,1,0,1,1,0,2,1,0,2,2,3,0,1,0,1,0,0,1,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,1
+"Central African Republic",Government/territory,14,"CAR: coups and rebellions process","Africa (excl MENA)",2246,4,"Declaration of N'Djamena",2013-04-18,"Agreement with subsequent status",8,11447,InterIntra,Pre,PreMix,"Not signed, agreement mentions the following parties as having produced it:
+
+Page 1, Untitled preamble (Declaration):
+At the invitation of the President of the Economic Community of Central African States
+(ECCAS), His Excellency IDRISS DEBY ITNO, President of the Republic of Chad, the Fourth
+Extraordinary Summit of Heads of State and Government was held in N'Djamena, on April 18,
+2013, to examine the situation prevailing in the Central African Republic. H.E.M. Jacob Zuma,
+President of the Republic of South Africa also participated in the Summit as a guest.
+
+
+Page 1, Untitled preamble (Declaration): 
+The Heads of State and Government, members of the ECCAS [CEEAC, Fr.]
+
+
+Page 6, minutes:
+At the invitation of the President of the Economic Community of Central African States
+(ECCAS), His Excellency IDRISS DEBY ITNO, President of the Republic of Chad, the Fourth
+Extraordinary Summit of Heads of State and Government was held in N'Djamena, on April 18,
+2013, to examine the situation prevailing in the Central African Republic.
+The following took part in this Summit,
+- His Excellency Idriss DEBY ITNO, President of the Republic of Chad, President in office of ECCAS;
+- His Excellency Denis SASSOU NGUESSO President of the Republic of the Congo;
+- His Excellency Ali BONGO ONDIMBA, President of the Gabonese Republic;
+- His Excellency Jacob ZUMA, President of the Republic of South Africa;
+- His Excellency Amadou Ali, Deputy Prime Minister, Minister Delegate at the Presidency of the Republic Responsible for Relations with the Assemblies, Republic of Cameroon, 
+- His Excellency Raymond Tashibanda, Minister of Foreign Affairs, International Cooperation
+and Francophonie, Democratic Republic of Congo 
+- His Excellency AGAPITO MBA MOKUY Minister for Foreign Affairs of the Republic of Equatorial Guinea;
+His Excellency ISSIFOU Kogui Ndouro, Minister of State in Charge of Presidential Affairs, Republic of Benin
+His Excellency Sébastien Fernandes, Ambassador of Angola to Chad, Republic of Angola; 
+- His Excellency Nicolas TIANGAYE, Prime Minister of the Central African Republic;
+As well as Mr. Nassour GUELENGDOUKSIA OUAIDOU, Secretary-General of ECCAS,","Page 6, minutes:
+The Summit was held in the presence of the Representatives of the Secretary-General of the United Nations, the Chairperson of the Commission of the African Union, the President of the Commission of the European Union, the Secretary-General of the International Organization of La Francophonie, the United States of America and France.","Page 1, untitled preamble of the Declaration: 
+Ceasefire Agreement
+Libreville Political Agreement of January 11, 2013",CAF,,482,,416,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,2,1,0,0,0,0,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+Comoros/Anjouan,Government/territory,15,"Comoros-Anjouan islands peace process","Africa (excl MENA)",1334,1,"Comoros's Constitution of 2001",2001-12-23,"Multiparty signed/agreed",8,24888,Intra,SubComp,FrCons,"The Government of Comoros",,"- The General Agreement on National Reconciliation (signed in Fomboni, February 17, 2001).
+",COM,,581,,407,,,,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,1,0,3,0,1,0,0,3,2,0,1,0,1,1,0,0,3,1,0,1,1,0,1,0,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,1,0,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,3,1,1,1,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,2,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Georgia/Russia/Abkhazia,Government/territory,43,"Abkhazia peace process","Europe and Eurasia",1794,1,"Statement of the State Commissions of Abkhazia and Georgia on Search for the Persons Missing without Trace",2000-07-11,"Multiparty signed/agreed",1,1828,Intra,Pre,Conf,"On behalf of Abkhaz side Otar Kakalia
+On behalf of Georgian side Vladimir Doborjginidze  ",,,GEO,RUS,372,365,392,,,882,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,1
+Georgia/Russia/Abkhazia,Government/territory,43,"Abkhazia peace process","Europe and Eurasia",1803,1,"Statement of the State Commissions of Abkhazia and Georgia on Search for the Persons Missing without Trace",2000-01-19,"Multiparty signed/agreed",1,1626,Intra,Pre,Conf,"On behalf of the Abkhaz Side Mr. Otar Kakalia; 
+ On behalf of the Georgian Side Mr. Avtandil Ioseliani",,,GEO,RUS,372,365,392,,,882,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,1
+India/Bodoland,Government/territory,50,"India Bodoland peace process","Asia and Pacific",652,1,"Memorandum of Settlement on Bodoland Territorial Council",2003-02-10,"Multiparty signed/agreed",7,18500,Intra,SubPar,MultIss,"(Hagrama Basumatary) Chairman, Bodo Liberation Tigers
+(P K Dutta) Chief Secretary, Govt. of Assam
+(R C A Jain, Secretary (BM), Ministry of Home Affairs, Government of India
+ 
+ 
+","Signed on 10th February, 2003 at New Delhi in the presence of Shri L.K. Advani, Hon’ble Deputy Prime Minister of India and Shri Tarum Gogoi, Chief Minister of Assam.",,IND,,750,,421,,,,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,3,0,0,1,0,3,0,0,1,0,3,0,1,0,2,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,2,0,1,1,0,3,2,0,0,0,0,0,0,2,3,0,1,1,1,1,0,1,0,1,3,0,1,0,0,3,1,0,0,1,0,0,1,0,0,3,0,1,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,3,2,1,0,0,0,0,0,0,0,1,1,1,1,0,1,1,1,1,0,1,1,0,0,0,0,2,1,2,0,1,0,1,0,2,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+India/Darjeeling,Government/territory,30,"India-Darjeeling peace process","Asia and Pacific",1716,1,"Memorandum of Agreement on the Gorkha Territorial Administration",2011-07-18,"Multiparty signed/agreed",9,23812,Intra,SubComp,FrAg,"(Dr. G.D. Gautama) Additional Chief Secretary, Home & Hill Affairs Department, Government of West Bengal for and on behalf of the Government of West Bengal;
+(Shri Rooshan Giri ) General Secretary, Gorkha Janmukti Morcha, for and on behalf of the Gorkha Janmukti Morcha;
+(Shri K.K. Pathak) Joint Secretary to the Government of India Ministry of Home Affairs, for and on behalf of the Government of India;",,"Page 1,
+... Whereas all issues including issues relating to transfer of subjects to the new Body have been agreed in various tripartite meetings at the official level; and",IND,,750,,NA,NA,NA,NA,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,3,0,0,1,1,3,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1
+Indonesia/Aceh,Government/territory,55,"Indonesia-Aceh peace process","Asia and Pacific",325,1,"Cessation of Hostilities Framework Agreement between the Government of the Republic of Indonesia and the Free Aceh Movement",2002-12-09,"Multiparty signed/agreed",6,15498,Intra,Cea,CeaMix,"For the Government of the Republic of Indonesia, Amb. Mr. S. Wiryono; For the Leadership of the Free Aceh Movement Dr. Zaini Abdullah
+","Witnessed by Henry Dunant Centre for Humanitarian Dialogue (HDC), Mr. Martin Griffiths","10 May 2002 Joint Statement; ",IDN,,850,,366,1111,,912,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,2,0,0,1,0,0,0,0,0,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,2,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Indonesia/Aceh,Government/territory,55,"Indonesia-Aceh peace process","Asia and Pacific",108,1,"Agreement Reached by both Field Commanders of the RI and the GAM",2001-02-10,"Multiparty signed/agreed",2,2433,Intra,Cea,Ceas,"Representatives of the GAM, On behalf of Field Commanders of the AGAM,
+1. TKG. AMRI BIN ABDUL WAHAB
+2. TGK. SAIFUL BIN MUHAMMAD ALI
+
+Representatives of the Government of the RI on Behalf of Field Commanders of the Aceh Police,
+1. KOM. BES. DRS. SUYITNO
+2. KOM. BES. POL. DRS. MANAHAN DAULAY
+
+Witnessed by the Joint Committee of Security Modality of the RI and the GAM
+Representative of the Free Aceh Movement (GAM
+Tgk. Nashiruddin bin Ahmed
+
+Representative of the Government of the RI
+Kom. Bes. Drs. Ridhwan Karim","The meeting was facilitated by Henry Dunant Center (HDC) ",,IDN,,850,,366,,,912,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Indonesia/Aceh,Government/territory,55,"Indonesia-Aceh peace process","Asia and Pacific",1196,1,"Report on the Meeting between the Aceh Free Movement (GAM) and the Republic of Indonesia (RI)",2001-02-10,"Multiparty signed/agreed",3,2455,Intra,Cea,Ceas,"Representatives of the Government of the RI on behalf of field commanders of the Aceh Police
+1. KBP Drs. Suyitno
+2. KBP. Drs. M. Daulay
+
+Representatives of the Free Aceh Movement on behalf of Field Commanders of the GAM:
+
+1. TGK. Amri bin Abdul Wahab
+2. Tgk. Saiful bin Muhammad Ali
+","The Aceh Free Movement (GAM)
+a. Tgk. Nashiruddi bin Ahmad (Member of JCSM)[Signed as Witness]
+b. Tgk. Amni bin Ahmad Maracaki(?) (Member of JCSM)
+c. Tgk. Sofyan Ibrahim Tiba, SH (Member of JCSM)
+d. Tgk. Amri bib Abdul Wahab (Vice of Field Commander)
+
+The Government of the Republic of Indonesia
+a. KB. Pol. Drs. Ridwan Karim (Member of JCSM)[Signed as Witness]
+b. Kol. CPM Drs. Sulaiman AB (Member of JCSM)
+c. Kol. CHK. Balukia, SH (Member of JCSM)
+d. KB. Pol Drs. Suyitno (Representative of Aceh Police)
+e. KB. Pol Drs. Manalum Daulay (Representative of Aceh Police)
+
+Monitoring Team of Security Modality (MTSM)
+a. H. Muhammad Daim (MTSM)
+b. Nasrullah Dahlawi (MTSM)
+
+Henry Dunant Center (HDC)
+a. Dominik Knill [Signed as witness]
+b. Jean-Pierre Werder
+c. David Gorman",,IDN,,850,,366,,,912,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"Ireland/United Kingdom/Northern Ireland",Government/territory,62,"Northern Ireland peace process","Europe and Eurasia",2270,4,"New Decade, New Approach ",2020-01-10,"Multiparty signed/agreed",62,109643,Intra,Imp,ExtSub,"Government of the United Kingdom
+Government of the Republic of Ireland
+Democratic Unionist Party
+Sinn Féin
+Ulster Unionist Party
+Social Democratic and Labour Party
+The Alliance Party of Northern Ireland",,"The Agreement Reached in the Multi-Party Negotiations (Good Friday Agreement or Belfast Agreement) Stormont House Agreement",GBR,IRL,200,205,315,,,,3,0,0,1,0,2,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,3,0,0,0,0,1,0,3,3,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,1,0,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,2,2,0,0,0,0,1,0,3,2,2,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,1,2,0,0,0,0,1,1
+"Ireland/United Kingdom/Northern Ireland",Government/territory,62,"Northern Ireland peace process","Europe and Eurasia",1435,1,"A Fresh Start: The Stormont Agreement and Implementation Plan",2015-11-17,"Multiparty signed/agreed",67,91912,Intra,Imp,ExtSub,"Participants listed as: the UK and Irish Governments, and the five main Northern Ireland parties
+Ministerial introduction signed by: First Minister Peter Robinson; deputy First Minister Martin Guinness
+Foreword signed by the Rt Hon Theresa Villiers MP Secretary of State for Northern Ireland; 
+Foreword signed by Mr Charles Flanagan TD Minister of Foreign Affairs and Trade  "," ","Page 14, SECTION “A” Ending Paramilitarism and Tackling Organised Crime, Introduction, 1.2 The Executive and the UK and Irish Governments recommit to:...giving full effect to the principles of peace and democracy set out in previous Agreements including the growth of mutual respect and equality of treatment that forms the basis of a united and stable society;
+
+Page 14-15, SECTION “A” Ending Paramilitarism and Tackling Organised Crime, Statement of Principles 2.4
+Building on the Mitchell Principles that affirmed all the main parties were committed to democratic and exclusively peaceful means of resolving political issues the Executive agreed to a Ministerial Code and Pledge of Office that incorporated: a commitment to non-violence; support for law and order; and support for the PSNI and the criminal justice system.
+
+Page 21, SECTION “B” NI Executive Financial Reforms and Context, NI Executive’s position on Corporation Tax, 1.18
+In accordance with the requirements of the Stormont House Agreement, the Executive reaffirms its commitment to take all the actions necessary to demonstrate that its finances are on a sustainable footing for the long term including successfully implementing measures in the Stormont House Agreement, this Agreement and subsequent reform measures.
+
+Page 24, SECTION “D” UK Government Financial Support
+This section sets out the financial support the UK Government will provide to support implementation of the SHA and this Agreement and a number of accompanying NI Executive commitments.
+
+Page 30, SECTION “E” Irish Government Financial Support, 1.1 
+...This is crucial for job creation and all-island prosperity and to ensure that the socio- economic dividend made possible by the Belfast/Good Friday and subsequent Agreements is fully realised.
+
+Page 30-31, SECTION “E” Irish Government Financial Support, A5 Western Transport Corridor Serving the North West, 2.1 
+The Irish Government remains supportive of the commitment under the St Andrews Agreement to co-fund the construction of the A5 through Northern Ireland to Derry- Londonderry, which will improve access to Derry-Londonderry and North Donegal. The timeframe for this period is dependent on planning issues which are currently being addressed by the Northern Ireland authorities. 
+
+Page 39, SECTION “F” Implementation of other aspects of the Stormont House Agreement, Outstanding Commitments, 70
+On the St Andrews Agreement Review, the NSMC (meeting in Institutional format) will agree before the end of February 2015 a report on new sectoral priorities for North-South cooperation, identified during Ministerial discussions since November 2013. A report on new sectoral priorities will be a standing item for future meetings of the NSMC meeting in Institutional format.",GBR,IRL,200,205,315,,,,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,3,0,1,0,0,0,2,0,0,0,0,1,0,0,3,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,1,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,3,1,0,1,1,0,1,2,3,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,2,0,1,1,0,0,1,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,0,0,0,1
+"Ireland/United Kingdom/Northern Ireland",Government/territory,62,"Northern Ireland peace process","Europe and Eurasia",903,1,"Stormont House Agreement",2014-12-23,"Multiparty signed/agreed",14,5218,Intra,Imp,ImpMod,"Not signed, agreement known to be between the Northern Ireland political parties, but parties unlisted. ",,"Page 13-14, Outstanding Issues, 70.
+On the St Andrews Agreement Review, the NSMC (meeting in Institutional format) will agree before the end of February 2015 a report on new sectoral priorities for North/South cooperation, identified during Ministerial discussions since November 2013. A report on new sectoral priorities will be a standing item for future meetings of the NSMC meeting in
+Institutional format.
+",GBR,IRL,200,205,315,,,,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,3,1,0,0,0,0,2,0,0,0,0,1,0,1,2,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,1,0,3,0,0,3,0,0,0,0,3,0,0,0,0,1,1
+"Ireland/United Kingdom/Northern Ireland",Government/territory,62,"Northern Ireland peace process","Europe and Eurasia",764,1,"Hillsborough Castle Agreement",2010-02-05,"Multiparty signed/agreed",21,21542,Intra,Imp,ExtSub,"1. First Minister Peter Robinson (Democratic Unionist Party)
+2. Deputy First Minister Martin McGuinness (Sinn Féin) 
+
+However, the agreement also includes a letter from The Prime Minister of the UK, and therefore includes commitments from the UK Government.
+",,,GBR,IRL,200,205,315,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0,3,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,1,0,0,0,0,0,1,1
+"Ireland/United Kingdom/(Northern Ireland)",Government/territory,62,"Northern Ireland peace process","Europe and Eurasia",132,1,"Joint Declaration by the British and Irish Governments",2003-04-01,"Multiparty signed/agreed",22,57328,InterIntra,Imp,ImpMod,"British government, Irish Government",,"[Summary: The agreement in its entirety provides implementation modalities and commitments of the Good Friday Agreement.]
+
+Page 4, Acts of Completion, 5.
+The two Governments have previously stated their commitment to the full implementation of the Agreement which, we affirmed, had already brought great gains and tangible benefits to the people of Northern Ireland. The achievements of the Agreement have already vindicated the vision and courage of those who seized that opportunity. The Agreement remains the template for political progress, has been endorsed by the people of Ireland, North and South, and is the only sustainable basis for a fair and honourable accommodation between all traditions.",GBR,IRL,200,205,315,,,,1,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1,0,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,2,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,2,0,0,1,1,3,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,1,0,3,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1,1,0,0,0,1,0,0,0,3,3,2,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,1,0,0,0,0,1,1
+Mali/Azawad,Government/territory,74,"Mali-Azawad Inter-Azawad peace process","Africa (excl MENA)",813,1,"Accord préliminaire à l’élection présidentielle et aux pourparlers inclusifs de paix au Mali (Accord préliminaire de Ouagadougou)",2013-06-18,"Multiparty signed/agreed",9,14386,Intra,SubPar,MultIss,"(Signed)
+Pour le Gouvernement d'union nationale de la République du Mali, le Ministre de la Défense et des Anciens Combattants et P/D: 
+Colonel Moussa Sinko COULIBALY
+Ministre de l' Administration Territotiale de la Décentralisation et de l' Aménagement du Territoire.
+
+(Signed)
+Pour le Mouvement national pour la libération de l'Azawad
+Bilal Ag CHERIF
+
+(Signed)
+Pour le Haut Conseil pour l'unité de l'Azawad
+Alghabass Ag INTALLA 
+
+","(Signed)
+Le Médiateur
+Blaise Compaore
+Président du Faso
+
+(Signed)
+Le Médiateur associé
+Goodluck Ebele Jonathan
+Président de la République Fédérale du Nigeria
+  
+Témoins
+  
+(Signed)
+Haut Représentant de l'Union Africaine et Chef de la MISMA
+Pierre BUYOYA
+
+(Signed)
+Représentant Spécial du Secrétaire Général des Nations Unies et Chef de Mission de la MINUSMA
+Bert Koenders
+
+(Signed)
+Représentant de L'Organisation de la Coopération Islamique (OCI)
+Yipene Djibril Bassole
+
+(Signed)
+Représentant l'Union Européenne (UE)
+Michel REVEYRAND de MENTHON ","Page 3, Preamble:
+[...]
+Reaffirming their respect for the principles of the communique issued at Ouagadougou on December 4, 2012, including:
+-	the use of dialogue and negotiation to reach a fair and definitive political solution to the crisis;
+-	respect for national unity and the territorial integrity of Mali;
+-	respect for the republican and secular nature of the State;
+-	respect for Human Rights, human dignity, and fundamental and religious liberties;
+-	protection of the national heritage;
+-	respect for equality of all Malian citizens;
+-	rejection of all forms of terrorism and extremism;
+-	respect for Malian communities.
+[...]",MLI,,432,,372,1609,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,3,1,0,0,1,2,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,1,0,1,1,1
+Myanmar,Government/territory,80,"Myanmar ceasefires process with ethnic armed groups","Asia and Pacific",1544,1,"Military Code of Conduct between the Government of Burma and Ethnic Armed Organisations (EAO) in Accordance with the National Ceasefire Agreement (NCA)",2015-11-18,"Multiparty signed/agreed",6,9203,Intra,Cea,Rel,"Government of Burma represented by
+Representatives of the Government
+1. Lt. Gen. Ya Pyit, Commander, No. 2 Special Operation
+2. U Khin Maung Soe, Union Minister
+3. Lt. Gen. Ye Aung, Chief, Military Law
+4. Maj. Gen. Tun Tun Naung, Commander, No. 1 Special Operation
+5. Maj. Gen. Aung Kyaw Zaw, Commander, No. 3 Special Operation
+6. Maj. Gen. Min Naung, Commander, No. 4 Special Operation
+7. U Myint Soe, Retired Lt. Gen.
+8. Maj. Gen. Aung Soe, Deputy Minister, Ministry of Interior
+9. Col. Wun Na Aung, Office of the Ministry of Defense (Army)
+10. Dr. Min Zaw Oo, Director, MPC
+
+Ethnic Armed Organizations, represented by;
+1. Maj. Gen. Saw Isaac Poe, Quartermaster General, KNLA and Permanent Central Committee, KNU
+2. Maj. Gen. Saw Nay Soe Mya, Adjutant General, KNU/KNLA (PC)
+3. Dr. Shwe Kah, Joint Secretary, CNF
+4. Col. Saw Kyaw Than Htay, Chief Liaison Officer, DKBA
+5. Lt. Col. Khun Aung Mang, PNLO
+6. Salai Yaw Aung, ABSDF
+7. Lt. Col Khine Myo Chit, ALP
+8. Col. Hsaung Han, RCSS
+9. Padoh Saw Ta Doh Moo, KNU
+10. Sai Liang, RCSS",,,MMR,,775,,NA,NA,NA,NA,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1,0,1,0,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1,0,0,1,0,1,3,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Myanmar,Government/territory,80,"Myanmar ceasefires process with ethnic armed groups","Asia and Pacific",1545,1,"Joint Monitoring Committee guideline for Each Level (Draft)",2015-10-15,"Multiparty signed/agreed",10,23202,Intra,Cea,Rel,"Armed Ethnic Organisations, Myanmar Government.",,,MMR,,775,,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Myanmar,Government/territory,80,"Myanmar ceasefires process with ethnic armed groups","Asia and Pacific",1436,1,"The Nationwide Ceasefire Agreement (NCA) between The Government of the Republic of the Union of Myanmar and the Ethnic Armed Organizations (EAO)",2015-10-15,"Multiparty signed/agreed",12,25265,Intra,Cea,Ceas,"For the Government of the Republic For the Ethnic Armed Organizations of the Union of Myanmar 
+(Leaders of Executive, Hluttaw and Tatmadaw) 
+(Leaders of the Ethnic Armed Organizations) 
+
+Note: two additional groups signed on the 13 February 2018: The New Mon State Party and Lahu Democratic Union inked the NCA in Nay Pyi Taw, joining eight other groups who had signed before State Counsellor Daw Aung San Suu Kyi took office (https://frontiermyanmar.net/en/nmsp-ldu-formally-sign-nationwide-ceasefire-agreement).
+
+","Witnesses 
+1) National 
+2) International 
+
+Page 15, Annex; Decisions and minutes made during NCA
+31. Article 33 UPWC agrees to invite international witnesses as proposed by the EAOs: UN, China, India and Thailand
+
+32. Article 33 In addition, the NCA will be signed in the presence of the following country representatives: EU, USA, UK, Norway and Japan.","Page 1,  Preamble 
+This Nationwide Ceasefire Agreement, between the Government of the Republic of the Union of Myanmar and the Ethnic Armed Organizations, recognizes, reinforces, and reaffirms all previous agreements between the Government of the Republic of the Union of Myanmar and the Ethnic Armed Organizations. This agreement also aims to secure an enduring peace based on the principles of dignity and justice, through an inclusive political dialogue process involving all relevant stakeholders.",MMR,,775,,NA,1485,NA,NA,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,1,0,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,1,0,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,0,2,0,1,0,0,1,1,0,0,1,0,0,0,3,1,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,1,1,0,1,0,0,3,1,0,0,0,2,0,1,0,1,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,1,0,1,1,1
+Myanmar,Government/territory,80,"Myanmar ceasefires process with ethnic armed groups","Asia and Pacific",1519,1,"The Framework for Political Dialogue",2015-10-15,"Multiparty signed/agreed",10,18310,Intra,Pre,Proc,"Tatmadaw, Government, Armed Ethnic Organizations, Civil Society and stakeholders.",,"Pyidaungsu Accord; Framework for Political Dialogue; 
+
+Page 1, Preamble, The Framework for Political Dialogue was negotiated and drafted by the Union Peace Dialogue Joint Committee (UPDJC), comprising of representatives of the Government, Parliament, Tatmadaw, Ethnic Armed Organizations, and political parties, in accordance with the Nationwide Ceasefire Agreement (NCA), signed between the Government of the Republic of the Union of Myanmar and the Ethnic Armed Organizations on October 15th, 2015, and unanimously ratified by the Pyidaungsu Hluttaw on December 8th, 2015.
+",MMR,,775,,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,1,0,3,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,2,1,0,0,0,1,1,0,1,0,1,0,1,1,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,1,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Myanmar,Government/territory,80,"Myanmar ceasefires process with ethnic armed groups","Asia and Pacific",1518,1,"Code of Conduct for political parties and candidates",2015-06-26,"Multiparty signed/agreed",35,16067,Intra,SubPar,Iss,"Drafted by the ad hoc Working Committee (FDA, NBF, NLD, NUP, UNA, USDP). Consulted and accepted by all political parties.",,,MMR,,775,,NA,NA,NA,NA,1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,3,0,0,1,0,3,0,0,1,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,0,0,2,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1
+Myanmar,Government/territory,80,"Myanmar ceasefires process with ethnic armed groups","Asia and Pacific",1321,1,"Agreement Between the Chin National Front (CNF) and Union-Level Peace Working Committee at the 2nd Round of Peace Talks",2012-12-09,"Multiparty signed/agreed",5,11592,Intra,SubPar,MultIss,"Page 2, Untitled Preamble:...the Chin National Front and the Union Peace Working Committee signed this agreement on 9 December 2012 
+
+Page 5, Agreements on Social and Cultural Matters, 28. The following signatories duly entered their signatures having duly agreed on the above points.
+[Note: Names, titles and signatures of members of both parties as well as observers below are intentionally omitted in the translation]
+","Page 2, Untitled Preamble:...having been witnessed by the Chin Peace and Tranquility Committee, Union-level Peace Facilitating Committee and observers.
+
+Page 5, Agreements on Social and Cultural Matters, 28. The following signatories duly entered their signatures having duly agreed on the above points.
+[Note: Names, titles and signatures of members of both parties as well as observers below are intentionally omitted in the translation]
+","Page 1, Untitled Preamble: The 9-point ceasefire agreement between the Chin National Front Peace Negotiating Team and the Chin State Government on 6 January 2012 in Hakha, Chin State and the 15-point Union level ceasefire agreement signed by the Chin National Front and the Chin State Government on 7 May 2012 in Chin State, witnessed by the Chin Peace and Tranquility committee, respectively are hereby reaffirmed. As contained in paragraph 4 of the May 7 2012 agreement between the Chin National Front and the Union-level Peace Negotiating Team...
+
+Page 2, Agreement Concerning Chin National Issue, 01): The Union of Burma is a Union founded in accordance with the Panglong Agreement of February 12 1947 by the territories formerly governed under the 1896 Chin Hills Regulation, Kachin Hill Tribes Regulation, the Federated Shan States and the Government of Burma Act of 1935. 
+
+Page 2, Agreement Concerning National Reconciliation, Human Rights and the Environment 04): It is agreed that no reprisals be made against anyone for being involved in any and all activities related to engagement between the Chin National Front and the public during the period of the cease-fire agreement, invoking either the political party registration act or the Unlawful Association Act effective the date of signing the agreement between the Chin National Front and the Union Government on 6 January 2012. ",MMR,,775,,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,1,0,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,0,0,0,2,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,1,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,1,0,3,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,1,0,0,2,1,1,0,2,0,0,0,0,1,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Nepal,Government/territory,158,"Nepal related-local processes","Asia and Pacific",1750,1,"Agreement between the Government Talks Team comprising the Seven political Parties and Sanghiya Ganatantrik Rastriya Morcha, Nepal",2008-03-02,"Multiparty signed/agreed",2,10052,IntraLocal,SubPar,MultIss,"On behalf of Sanghiya Ganatantrik Rastriya Morcha, Nepal
+Sd.
+(Mr D.K. Buddhist)
+Chairperson,
+Sanghiya Ganatantrik Rastriya  Morcha, Nepal
+
+Sd.
+(Mr Kumar Lingden ‘Mirak’)
+Chairperson, 
+Sanghiya Limbuwan Rajya Parishad	
+
+Sd.
+(Mr Laxman Tharu)
+Chairperson,
+ Samyukta Tharu Rastriya Morcha-Nepal
+
+Sd.
+(Mr Bisendra Paswan)
+Chairperson, 
+Dalit Janajati Party
+
+Sd.
+(Mr Singman Tamang)
+Vice-chairman, 
+Tamangsaling Swayatta Rajya Parishad
+
+Talks Team comprising seven parties
+Sd.
+(Mr Ram Chandra Poudel)
+Coordinator
+
+Sd.
+(Mr Shanker Pokharel) 
+Member
+
+Sd.
+(Mr Dev Prasad Gurung)
+Member
+
+Sd. 
+(Mr Ghanashyam Sharma Poudel)
+Member
+
+Sd.
+(Mr Sunil Prajapati)
+Member
+
+Sd.
+(Mr Keshav Nepal) 
+Member
+
+
+",,,NPL,,790,,269,,,931,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,1,0,1,1,1,1,0,0,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,3,1,0,1,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,2,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,2,0,2,0,2,0,1,0,0,0,0,0,0,1
+Nepal,Government/territory,158,"Nepal related-local processes","Asia and Pacific",1745,1,"Agreement between the GoN and Madheshi Janadhikar Forum, Nepal",2007-07-30,"Multiparty signed/agreed",3,7981,IntraLocal,SubPar,MultIss,"Sd. Upendra Yadav
+ Coordinator 
+Madheshi Janadhikar Forum, 
+
+Sd. Ram Chandra Poudel
+ Coordinator 
+GoN Talks Team 
+ 
+Sd.
+Upendra Yadav 
+Coordinator
+Madheshi Janadhikar Forum, Nepal 
+
+",,,NPL,,790,,269,,,931,1,0,0,0,1,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,1,1,0,3,1,1,1,0,3,1,0,1,0,2,0,1,0,0,0,0,0,0,3,1,1,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,1,1,0,0,0,3,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,0,0,2,0,1,0,1,0,0,0,0,0,1,1
+Pakistan/Taliban,Government/territory,86,"Pakistan-Taliban process",Cross-regional,735,1,"Swat Peace Accord",2009-02-16,"Multiparty signed/agreed",1,1131,Intra,SubPar,MultIss,"Taliban; Pakistani Government",,,PAK,,770,,404,,,,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+Pakistan/Taliban,Government/territory,86,"Pakistan-Taliban process",Cross-regional,734,1,"North West Frontier Province Government’s Agreement with the Taliban",2008-05-21,"Multiparty signed/agreed",2,2457,Intra,SubPar,MultIss,"Pakistani Government; Pakistani Taliban",,,PAK,,770,,404,,,,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,1,0,0,0,0,0,1,1
+"Papua New Guinea/Bougainville",Government/territory,9,"Bougainville: peace process","Asia and Pacific",312,1,"Bougainville Peace Agreement",2001-08-30,"Multiparty signed/agreed",81,123098,Intra,SubComp,FrAg,"Hon. Sir Mekere Morauta, Kt MP Prime Minister; Hon. John L. Momis MP, Governor, Bougainville Interim Provincial Government; Hon. Moi Avei, Minister for Bougainville Affairs; Joseph Kabui, President, Bougainville People's Congress; Hon. M. Ogio, Deputy Prime Minister, MP for North Bougainville; Hon. M. Laimo, MP for South Bougainville; Hon. S. Akoitai, MP for Central Bougainville; Mr. J. Ranam, Chairman, Leitana Council of Edlders; Mr. G. Sinato, Deputy Governor, Bougainville Interim Provincial Government; Mr. T. Anis, Vice-President, Bougainville People's Congress; Mr. J. Tanis, Vice-President, Bougainville People's Congress; Ishmael Toroama, Chief of Defence, Bougainville Revolutionary Army; Hilary Masiria, Chairman, Bougainville Resistance Forces; Mrs. Ruby Mirinka, Representative of Bougainville Women ","Witnesses: Australia, New Zealand, Fiji, Solomon Islands, UNOMB (United Nations Observer Mission to Bougainville)","Page 76, BOUGAINVILLE PEACE AGREEMENT, Part F. OTHER MATTERS, 1. AMNESTY AND PARDON 
+331. The parties confirm that grants of amnesty and pardon (as agreed in the Lincoln Agreement) for all persons involved in crisis-related activities or convicted of offences arising out of crisis-related activities should be expedited, and will cooperate to ensure that they are.
+Page 77, BOUGAINVILLE PEACE AGREEMENT, Part F. OTHER MATTERS, 2. RESOLVING DISPUTES DURING IMPLEMENTATION
+[…]
+336. The National Government will also use its best efforts to ensure that the PMG continues to provide such assistance in implementation of the Lincoln Agreement as the parties may, by agreement, request and the contributing states may agree
+",PNG,,910,,369,1080,34,854,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,1,0,1,0,3,0,1,1,0,3,1,1,0,0,0,1,1,3,1,0,1,0,1,0,0,0,0,1,3,0,0,1,1,3,1,0,0,1,0,0,1,0,1,0,1,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,1,1,2,1,1,0,0,1,1,0,0,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,3,3,1,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,2,2,3,0,1,0,0,0,1,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1
+"Papua New Guinea/Bougainville",Government/territory,9,"Bougainville: peace process","Asia and Pacific",586,1,"Joint Bougainville Ex-combatants Agreement on Weapons Disposal (Rotakas Record)",2001-05-03,"Multiparty signed/agreed",6,8007,Intra,SubPar,Iss,"Chief of Defence, Bougainville Revolutionary Army, General Ishmael Toroama; Chairman, Bougainville Resistants Force, Hilary Masiria; Commanders, Bougainville Revolutionary Army, Steven Topesi, Peter Naguo, Justin Kokiai, Thomas Tari, Glen Bearas, Dominic Babatani, Joe Pakoi, Joe Korerua, Damien Kora, Cosmas Ito; Commanders, Bougainville Resistants Force, Laurie Patrick, Hilary Loni, Michael Komoiki, Ambrose Omi, Jacob Naisy, Paul Akoitai, Matthew Warapere","Witnessed by: Ambassador Noel Sinclair, UNOMB; Matt Anderson, PMG; Amos Tevaria, Chief; Jeremiah Voiporea, Chief; James Vasiviri; Martin Varieto; Tabitha Rueta, Womens' representative",,PNG,,910,,369,,,854,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1
+Philippines/Cordillera,Government/territory,89,"Philippines - Cordillera process","Asia and Pacific",854,1,"Memorandum of Agreement between the Government of the Philippines and the CBA/CPLA towards the CPLA’s Final Disposition of Arms and Forces and its Transformation into a Potent Socio-Economic Unarmed Force (Closure Agreement)",2011-07-04,"Multiparty signed/agreed",13,26047,Intra,SubPar,MultIss,"For the GPH: 
+SEC. TERESITA QUINTOS DELES, Presidential Adivser on the Peace Process
+
+For CBA-CPLA:
+ARSENIO M. HUMIDING, Chairman, CPLA
+
+MARCELINA G. BAHTAN, President, CBA","Singed in the presence of:
+
+SEC. CESAR P. GARCIA, JR, NSC
+
+SEC. VOLTAIRET. GAZMIN, DND
+
+SEC. JESSE M. ROBREDO, DILG
+
+SEC. CORAZON J. SOLIMAN, DSWD
+
+REP. TEODORO B. BAGUILAT, JR, Lone District, Ifugao
+
+GOV. ELIAS C. BULUT, JR, Apayao
+
+ARMANDO C. WATIL, ZONE 1 Commander, Abra
+
+TIRSO P. IWANGGA, Zone 2 Commander, Kalinga
+
+BANAT E. WAIS, Zone 3 Commander, Mt. Province
+
+ALFONSO A. LENGWA, JR, Zone 4 Commander, Apayao
+
+CRUZALDO C. VELASCO, Zone 5 Commander, Ifuago
+
+THOMAS D. TANACIO, Zone 6 Commander, Benguet
+
+MODESTO F. SAGADANG, Chief of Staff, CPLA
+
+FELIPE L, CARINO, Vice-Chairman, CPLA
+
+GABINO P. GANGGANGAN, Seceretary General, CBA
+","Page 2, Untitled Preamble, 
+WHEREAS, a Joint Declaration of Commitment for Peace has been signed by the GPH and the CBA-CPLA on 6 May 2011 as a consensus for completion of a process of closure of the Mt. Data Peace Accord",PHL,,840,,209,,,786,2,0,0,1,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Philippines/Mindanao,Government/territory,90,"Philippines - Mindanao process","Asia and Pacific",1353,1,"The Task Force for Decommissioned Combatants and their Communities and its Terms of Reference",2015-06-02,"Multiparty signed/agreed",3,3870,Intra,Imp,ImpMod,"Prof. Miriam Coronel-Ferrer, GPH Panel Chair; 
+Mohagher Iqbal, MILF Panel Chair","Signed in the presence of: Tengku Dato' Ab Ghafar Tengku Mohamed, Malaysian Facilitator","The Comprehensive Agreement on the Bangsamoro; Terms of Reference of the Joint Normalization Committee",PHL,,840,,308,,,926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Philippines/Mindanao,Government/territory,90,"Philippines - Mindanao process","Asia and Pacific",1355,1,"Protocol on the Implementation of the Terms of Reference (TOR) of the Independent Decommissioning Body (IDB)",2015-01-29,"Multiparty signed/agreed",10,18303,Intra,Imp,ImpMod,"For the GPH: Professor Miriam Coronel-Ferrer, GPH Panel Chair; For the MILF: Mohagher Iqbal, MILF Panel Chair","Signed in the presence of: H.E. Haydar Berk, IDB Chair; Tengku Dato' Ab Ghafar Tengku Mohamed, Malaysian Facilitator","Comprehensive Agreement on the Bangsamoro; Annex on Normalization; Terms of Reference for the Independent Decommissioning Body (IDB); Framework Agreement on the Bangsamoro",PHL,,840,,308,,,926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,3,0,1,0,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+Philippines/Mindanao,Government/territory,90,"Philippines - Mindanao process","Asia and Pacific",882,1,"Annex on Normalization to the Framework Agreement on the Bangsamoro (FAB)
+",2014-01-25,"Multiparty signed/agreed",10,15563,Intra,Imp,ImpMod,"For the GPH: Prof. Miriam Coronel-Ferrer, GPH Panel Chair; For the MILF: Mohagher Iqbal, MILF Panel Chair","Signed in the presence of: Tengku Dato' Ab Ghafar Tengku Mohamed, Malaysian Facilitator","Annex is a part of the Framework Agreement on the Bangsamoro between the Government of the Philippines (GPH) and the Moro Islamic Liberation Front (MILF), references The Independent Commission on Policing and its Terms of Reference, Deed of Commitment under Geneva Call for Adherence to a Total Ban on Anti-Personnel Mines and for Cooperation in Mine Action, ",PHL,,840,,308,1476,,926,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,2,1,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,2,1,0,3,2,3,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,0,0,2,0,0,0,0,2,0,1,0,0,1,1
+Philippines/Mindanao,Government/territory,90,"Philippines - Mindanao process","Asia and Pacific",868,1,"Annex on Power-Sharing to the Framework Agreement on the Bangsamoro (FAB)",2013-12-08,"Multiparty signed/agreed",12,27936,Intra,SubPar,Iss,"For the GPH: Prof. Miriam Coronel-Ferrer, GPH Panel Chair; For the MILF: Mohagher Iqbal, MILF Panel Chair
+","Signed in the presence of: Tengku Dato' Ab Ghafar Tengku Mohamed, Malaysian Facilitator","Framework Agreement on the Bangsamoro (FAB); 1996 Final Peace Agreement between the Government and MILF. ",PHL,,840,,308,1472,,926,2,0,0,1,0,2,0,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,3,0,0,1,0,2,0,0,1,0,0,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,3,1,1,0,0,3,1,0,1,0,1,1,1,2,3,1,1,1,1,0,0,1,0,0,3,0,1,1,0,3,1,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,2,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,2,1,0,0,0,2,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,1,0,3,2,1,0,0,1,1,0,0,0,1,1,0,1,0,1,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Philippines/Mindanao,Government/territory,90,"Philippines - Mindanao process","Asia and Pacific",869,1,"Annex on Revenue Generation and Wealth-sharing to the Framework Agreement on the Bangsamoro (FAB)",2013-07-13,"Multiparty signed/agreed",8,13651,Intra,SubPar,Iss,"For the GPH: Prof. Miriam Coronel-Ferrer, GPH Panel Chair; For the MILF: Mr. Mohagher Iqbal, MILF Panel Chair
+","Tengku Dato' Ab Ghafar Tengku Mohamed, Representative of Malaysian Facilitator","Framework Agreement between the Government of the Philippines and the Moro Islamic Liberation Front. ",PHL,,840,,308,1471,,926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1,0,3,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,3,0,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,3,3,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Philippines/Mindanao,Government/territory,90,"Philippines - Mindanao process","Asia and Pacific",871,1,"Terms of Reference for Sajahatra Bangsamoro",2013-04-11,"Multiparty signed/agreed",5,7572,Intra,Imp,ImpMod,"Miriam Coronel-Ferrer, Panel Chair on behalf of the Government of the Philippines; 
+Mohagher Iqbal, Panel Chair on behalf of the Moro Islamic Liberation Front
+","Signed in the presence of: Tengku Dato’ Ab Ghafar Tengku Mohamed, Malaysian Facilitator","Framework Agreement on Bangsamoro",PHL,,840,,308,,,926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Philippines/Mindanao,Government/territory,90,"Philippines - Mindanao process","Asia and Pacific",873,1,"The Independent Commission on Policing and its Terms of Reference
+",2013-02-27,"Multiparty signed/agreed",4,4725,Intra,Imp,ImpMod,"Miriam Coronel-Ferrer, Panel Chair for the Government of the Philippines
+Mohagher Iqbal, Panel Chair for the Moro Islamic Liberation Front","Tengku Dato' Ab Ghafar Tengku Mohamed, Facilitator and Representative of Malaysia ","Framework Agreement on the Bangsamoro; ",PHL,,840,,308,,,926,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Philippines/Mindanao,Government/territory,90,"Philippines - Mindanao process","Asia and Pacific",867,1,"Framework Agreement on the Bangsamoro",2012-10-15,"Multiparty signed/agreed",14,20762,Intra,SubPar,MultIss,"Marvic M.V.F. Leonen, Panel Chairman on behalf of the Government of the Philippines; 
+Mohagher Iqbal, Panel Chairman on behalf of the Moro Islamic Liberation Front
+","Tengku Dato’ Ab Ghafar Tengku Mohamed, Facilitator and Representative of Malaysia; Witnessed by: Benigno Simeon Aquino III, President of the Republic of the Philippines; Dato’Sri Hj. Mohd Najib Bin Tun Hj. Abdul Razak, Prime Minister of Malaysia; Al Haj Murad Ebrahim, Chairman of the Moro Islamic Liberation Front ","Decision Points of Principles; Annex on Power Sharing; Annex on Wealth Sharing; Annex on Transitional Arrangement and Modalities; Annex on Normalization.",PHL,,840,,308,1439,,926,1,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1,0,2,0,0,1,0,3,0,0,1,0,0,0,0,0,0,2,0,1,0,2,0,1,0,0,1,1,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,3,0,1,1,0,3,1,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,3,0,1,1,0,3,1,0,0,0,0,0,0,0,1,3,3,1,0,1,1,0,3,0,1,0,0,1,1,0,1,0,1,0,1,0,1,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,1,1,0,0,0,1,0,1,1,1,0,0,0,1,1,0,3,1,0,0,1,1,0,1,1,1,0,1,0,0,1,0,0,1,0,1,1,1,2,1,0,2,2,3,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,2,0,1,0,0,1,0,0,1,1
+Philippines/Mindanao,Government/territory,90,"Philippines - Mindanao process","Asia and Pacific",866,1,"Government of the Philippines-MILF Decision Points on Principles as of April 2012",2012-04-24,"Multiparty signed/agreed",2,3888,Intra,SubPar,MultIss,"Marvic M.V.F. Leonen, Panel Chair on behalf of the Government of the Philippines
+Mohagher Iqbal, Panel Chair on behalf of the Moro Islamic Liberation Front
+","Tengku Dato’ Ab Ghafar Tengku Mohamed, Facilitator and Representative of Malaysia",,PHL,,840,,308,1530,,926,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,2,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,1,1,0,0,0,0,0,0,0,1,1,3,1,0,1,0,0,3,0,1,0,0,1,1,0,1,0,1,0,1,0,1,1,1,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,1,0,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1
+Philippines/Mindanao,Government/territory,90,"Philippines - Mindanao process","Asia and Pacific",738,1,"Terms of Reference of the Civilian Protection Component (CPC) of the International Monitoring Team (IMT)",2010-05-05,"Multiparty signed/agreed",7,9118,Intra,Pre,Conf,"Rafael E. Seguis, Panel Chairman for the Government of the Republic of the Philippines
+Mohagher Iqbal; Panel Chairman for the Moro Islamic Liberation Front","Datuk Othman Bin Abd Razak, Facilitator and Representative of Malaysia ","GRP-MILF Agreement on the Civilian Protection Component of the International Monitoring Team; Terms of Reference of the International Monitoring Team; ",PHL,,840,,308,,,926,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+Philippines/Mindanao,Government/territory,90,"Philippines - Mindanao process","Asia and Pacific",1972,2,"Joint Communique between United Nations Children's Fund (UNICEF) and Moro Islamic Liberation Front (MILF)",2007-03-12,"Multiparty signed/agreed",2,3585,Intra,Imp,ExtSub,"For UNICEF
+
+Dr. Nicholas K. Alipui
+
+Representative, UNICEF Philippines
+
+
+
+For MILF
+
+Chairman Al Haj Murad Ebrahim
+
+Chairman, MILF",IMT,,PHL,,840,,308,,,916,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1
+Philippines/Mindanao,Government/territory,90,"Philippines - Mindanao process","Asia and Pacific",402,1,"Implementing Guidelines on the Security Aspect of the GRP-MILF Tripoli Agreement of Peace of 2001",2001-08-07,"Multiparty signed/agreed",9,14014,Intra,Imp,ImpMod,"For the GRP: Irene M. Santiago, GRP Technical Committee Acting Chairperson; For the MILF: 
+Atty. Musib M. Buat, MILF Technical Committee Chairperson","Attested by: Atty. Jesus G. Dureza, GRP Peace Panel Chairman; Al Haj Murad Ebrahim, MILF Peace Panel Chairman","GRP-MILF Agreement for General Cessation of Hostilities; Implementing Administrative Guidelines on AGCH; Implementing Operational Guidelines on AGCH; Agreement on Safety and Security Guarantees; Agreement Creating a Quick Response Team; Agreement on the General Framework for the Resumption of Peace Talks between the GRP and the MILF; Agreement of Peace between the GRP and the MILF; Joint Communique (07/08/2001)",PHL,,840,,308,,,916,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,2,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Philippines/Mindanao,Government/territory,90,"Philippines - Mindanao process","Asia and Pacific",274,1,"Agreement on Safety and Security Guarantees",2000-03-09,"Multiparty signed/agreed",1,1237,Intra,Pre,Conf,"For the GRP: Lt. Gen. Edgardo E. Batenga AFP (Ret.), GRP Peace Panel Chairman; 
+Rep. Anthony P. Dequina, GRP Peace Panel Member; 
+Mgen Santos B. Gabison Jr. AFP, GRP Peace Panel Member; 
+Rep. Simeo A. Datamanong GRP Peace Panel Adviser; 
+Atty. Ruben D. Torres, GRP Peace Panel Adviser; 
+Exec. Dir. Alma R. Evangelista, GRP Technical Committee Chairperson; For the MILF: 
+Vice Chairman Ghazali Jaafar, MILF Peace Panel Acting Chairman 
+Mr. Mohagher Iqbal, MILF Peace Panel Member
+Mr. Sammy Al-Mansoor, MILF Peace Panel Member
+Ustadz Omar Pasigan, MILF Peace Panel Adviser
+Amb. Alunan Glang, MILF Peace Panel Adviser
+Prof. Moner Bajunaid, MILF Technical Committee Chairperson ",,,PHL,,840,,308,,,916,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Somalia,Government/territory,87,"Somalia Peace Process","Africa (excl MENA)",1712,1,"Communique: The Mogadishu Declaration of the National Consultative Forum ",2015-12-16,"Multiparty signed/agreed",2,3963,Intra,SubPar,Iss,"Somali representatives gathered in Mogadishu for the second plenary session of the National Consultative Forum.
+Among the attendees were the President of the Federal Republic, Hassan Sheikh Mohamud, the Prime Minister of the Federal Republic, Omar Abdirashid Ali Sharmaarke, the Speaker of the Federal Parliament, Mohammed Osman Jawari, the President of Puntland, Abdiweli Ali “Gaas”, the President of the South-West Administration, Sharif Hassan Sheikh Adan, the President of Jubbaland, Ahmed Islaan “Madobe,” and the President of Galmudug, Abdulkarim Guled, as well as Federal ministers, members of the Federal Parliament, representatives from the executives of the regional administrations, the Deputy Governors of Benadir, Hiraan and Middle Shabelle and of Somali civil society, including women and youth.
+",,,SOM,,520,,337,,,938,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Somalia,Government/territory,87,"Somalia Peace Process","Africa (excl MENA)",1360,1,"Provisional Constitution of The Federal Republic of Somalia",2012-08-01,"Multiparty signed/agreed",66,142251,Intra,SubComp,FrCons,"Members of the Transitional Government of Somalia",,,SOM,,520,,337,,,938,3,0,0,1,0,3,0,1,1,0,3,0,1,1,0,0,0,0,0,0,3,0,1,1,0,3,0,1,1,0,0,0,0,0,0,2,0,1,0,0,3,0,1,0,2,0,1,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,1,0,0,1,0,3,1,0,0,0,3,2,2,1,0,1,1,1,3,2,1,0,0,1,1,1,0,0,1,3,1,1,0,1,3,1,0,0,0,0,0,0,0,1,3,2,3,1,1,1,1,0,0,0,0,0,1,1,1,0,1,1,1,1,0,1,1,0,1,1,1,1,0,0,0,1,0,1,1,1,1,3,0,1,0,0,0,0,0,0,1,1,0,1,0,1,3,0,1,1,0,1,1,0,0,1,1,1,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,0,0,0,1,1,0,1,0,1,1,1,0,0,1,1,1,0,0,0,3,2,2,0,1,2,0,0,3,1,0,1,0,1,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,2,0,0,1,0,1,1
+Somalia,Government/territory,87,"Somalia Peace Process","Africa (excl MENA)",779,1,"Protocol Establishing the Somali New Federal Parliament
+",2012-06-22,"Multiparty signed/agreed",3,4028,Intra,Imp,ImpMod,"President Sheikh Sharif Sheikh Ahmed of the Transitional Federal Government of Somalia; Honourable Sharif Hassan Sheikh Aden, Speaker of the Transitional Federal Parliament; Prime Minister Abdiweli Mohamed Ali; President Abdirahman Mohamed Mohamoud ‘Farole’ of Puntland; President Mohamed Ahmed Alin of Galmudug; and, representatives of Ahlu Sunna Wal Jama’a.","The meeting was facilitated by the United Nations under the auspices of the Special Representative of the Secretary-General for Somalia, Ambassador Augustine P. Mahiga.
+","Previous agreements adopted at Kampala, Mogadishu, Garowe and Galka’yo and Addis Ababa; ",SOM,,520,,337,,,938,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+Somalia,Government/territory,87,"Somalia Peace Process","Africa (excl MENA)",781,1,"Protocol Establishing the Signatories Technical Facilitation Committee
+",2012-06-22,"Multiparty signed/agreed",3,4520,Intra,Imp,ExtSub,"President Sheikh Sharif Sheikh Ahmed of the Transitional Federal Government of Somalia; Honourable Sharif Hassan Sheikh Aden, Speaker of the Transitional Federal Parliament; Prime Minister Abdiweli Mohamed Ali; President Abdirahman Mohamed Mohamoud ‘Farole’ of Puntland; President Mohamed Ahmed Alin of Galmudug; and, representatives of Ahlu Sunna Wal Jama’a.","The meeting was facilitated by the United Nations under the auspices of the Special Representative of the Secretary-General for Somalia, Ambassador Augustine P. Mahiga.
+","Agreements adopted at Kampala, Mogadishu, Garowe, Galka’yo and Addis Ababa.",SOM,,520,,337,,,938,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Somalia,Government/territory,87,"Somalia Peace Process","Africa (excl MENA)",782,1,"Protocol Establishing the Somali National Constituent Assembly",2012-06-22,"Multiparty signed/agreed",7,12732,Intra,Imp,ImpMod,"President Sheikh Sharif Sheikh Ahmed of the Transitional Federal Government of Somalia; Honourable Sharif Hassan Sheikh Aden, Speaker of the Transitional Federal Parliament; Prime Minister Abdiweli Mohamed Ali; President Abdirahman Mohamed Mohamoud ‘Farole’ of Puntland; President Mohamed Ahmed Alin of Galmudug; and, representatives of Ahlu Sunna Wal Jama’a.","The meeting was facilitated by the United Nations under the auspices of the Special Representative of the Secretary-General for Somalia, Ambassador Augustine P. Mahiga.
+","Previous agreements adopted at Kampala, Mogadishu, Garowe, Galka’yo and Addis Ababa; Protocol Establishing the Signatories Technical Facilitation Committee; The Somali Road map ",SOM,,520,,337,,,938,1,1,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1,0,3,0,0,0,0,0,1,1,0,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1
+Somalia,Government/territory,87,"Somalia Peace Process","Africa (excl MENA)",783,1,"Protocol Establishing the Technical Selection Committee
+",2012-06-22,"Multiparty signed/agreed",6,11068,Intra,Imp,ExtSub,"President Sheikh Sharif Sheikh Ahmed of the Transitional Federal Government of Somalia; Honourable Sharif Hassan Sheikh Aden, Speaker of the Transitional Federal Parliament; Prime Minister Abdiweli Mohamed Ali; President Abdirahman Mohamed Mohamoud ‘Farole’ of Puntland; President Mohamed Ahmed Alin of Galmudug; and, representatives of Ahlu Sunna Wal Jama’a.
+","The meeting was facilitated by the United Nations under the auspices of the Special Representative of the Secretary-General for Somalia, Ambassador Augustine P. Mahiga.","Kampala Accord, the Somali Roadmap, the Garowe I & II Principles, the Galka’yo Agreement, and the Addis Ababa Communiqué; ",SOM,,520,,337,,,938,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,1,1,0,2,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1
+Somalia,Government/territory,87,"Somalia Peace Process","Africa (excl MENA)",745,1,"Consultative Meeting on Ending the Transition in Somalia: Statement on Adoption of the Roadmap (Kampala Roadmap)",2011-09-06,"Multiparty signed/agreed",12,32368,Intra,SubComp,FrAg,"H.E. Abdiweli Mohamed Ali, Prime Minister of the TFG; Abdi Farah Saeed, Minister of Education, Puntland State of Somalia; Mohamed Ali-Nur Hagi, Minister of Int. Cooperation, Galmudug; Khalif Abdulkadir Moalin Noor, Head of the Delegation, ASWJ; 
+","Augustine P. Mahiga, Special Representative of United Nations Secretary-General; Hon. Wafula Wamunyinyi, Deputy Special Representative of the Chairperson of the African Union Commission; Mohamed Said Omar, Senior Governance and Policy Advisor, IGAD; Mohamed Idris, Head of League of Arab States Mission in Somalia
+
+3. ...Approximately three dozen stakeholders from the international community also participated in the proceedings, including: regional organisations, namely: European Unions, Inter-Governmental Authority on Development, League of Arab States and Organisation of the Islamic Conference.","Kampala Accords",SOM,,520,,337,,,938,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,3,1,1,1,0,2,2,2,2,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1,3,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,1,1,1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,2,0,1,0,1,0,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1
+Somalia,Government/territory,87,"Somalia Peace Process","Africa (excl MENA)",590,1,"The Transitional Federal Charter of the Somali Republic",2004-01-29,"Multiparty signed/agreed",40,54660,Intra,SubComp,FrAg,"THE DELEGATES   REPRESENTING   THE   PEOPLE   OF   THE   SOMALI REPUBLIC
+(see Schedule IV, Page 40)",,"The 1960 Somalia Constitution;
+Somali National Reconciliation Conference held in Kenya; 
+The reports of the five Reconciliation Committees of the Somali National Reconciliation Conference in Kenya 2002-2003.
+",SOM,,520,,337,,,870,3,0,0,1,0,2,0,0,1,0,3,0,0,1,0,0,0,0,0,0,3,0,1,1,0,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,2,0,0,1,0,1,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,0,3,0,0,1,0,3,1,1,1,0,1,1,1,0,2,1,0,0,1,0,1,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,1,2,2,3,1,1,1,1,3,0,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1,0,0,3,0,1,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,1,1,2,2,1,0,0,1,1,0,0,0,1,1,1,1,0,1,1,1,1,0,1,1,1,0,0,0,2,2,2,0,1,0,1,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,0,0,1,0,1,1
+Somalia,Government/territory,87,"Somalia Peace Process","Africa (excl MENA)",1682,1,"Declaration of National Commitment (Arta Declaration) ",2000-05-05,"Multiparty signed/agreed",8,24662,Intra,SubPar,MultIss,"The Transnational Government of Somalia","[Note: Several references to the international community]",,SOM,,520,,337,,,870,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,1,0,1,1,0,0,0,0,2,0,0,1,0,2,1,1,0,0,0,1,0,0,1,1,0,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,3,1,0,2,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,1,0,1
+Somalia/Puntland,Government/territory,87,"Somalia Peace Process","Africa (excl MENA)",1605,2,"National Leaders Forum Communiqué",2016-04-12,"Multiparty signed/agreed",3,7557,Intra,SubPar,Iss,"The participants included the President of the Federal Republic of Somalia, H.E. Hassan Sheikh Mohamud, the Speaker of the Federal Parliament, H.E. Mohammed Sh. Osman Jawari, the Prime Minister of the Federal Government, H.E. Omar Abdirashid Ali Sharmaarke, the Deputy Prime Minister of the Federal Government, H.E. Mohamed Omar Arteh, the President of Puntland, H.E. Abdiweli Mohamed Ali, the President of Jubbaland, H.E. Ahmed Mohamed Islaan, the President of the South-West, H.E. Sharif Hassan Sheikh Adan, and the President of Galmudug, H.E. Abdulkarim Hussein Guled.",,"Page 1, Electoral Process, Structures:
+… d. ... Clear Terms of References (TORs) for FEIT and SEIT will be developed and agreed upon for by the NLF.
+",SOM,,520,,NA,NA,NA,NA,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,3,1,2,0,0,0,0,1,1,0,3,1,0,0,1,1,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Somalia/Puntland,Government/territory,102,"Somalia-Puntland Peace Process","Africa (excl MENA)",1606,2,"Agreement Between the Federal Government of Somalia and the Government of Puntland State of Somalia",2016-04-03,"Multiparty signed/agreed",3,6195,Intra,SubPar,MultIss,"Federal Government of Somalia led by His Excellency Omar Abdirashid Ali Sharmarke, the Prime Minister of the Federal Government of Somalia","The Foreign Minister of Ethiopia and the Chairman of the IGAD Council of Ministers H.E. Tedros Adhanom, SRSG Michael Keating of the United Nations, African Union SRCC Francisco Madeira, EU Special Envoy Michele Cervone, Executive Secretary of IGAD, Ambassador Mahboub Moallim, IGAD Special Envoy Ambassador Mohamed Affey, with Ambassadors from Ethiopia, United Arab Emirates, Turkey, Sweden, Italy, and Djibouti also attended.",,SOM,,520,,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,2,1,0,0,2,0,3,2,0,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1
+Somalia/Puntland,Government/territory,87,"Somalia Peace Process","Africa (excl MENA)",799,1,"Agreement between the Federal Government of Somalia and Puntland State of Somalia",2014-10-14,"Multiparty signed/agreed",6,7021,Intra,Imp,ExtSub,"1. Federal Government of Somalia 
+2. Puntland State of Somalia",,"Provisional Federal Constitution; two former agreements between Puntland and FGS (2013 and earlier); ",SOM,,520,,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,1,1
+Somalia/Puntland,Government/territory,87,"Somalia Peace Process","Africa (excl MENA)",1680,1,"The Garowe II Principles on Federalism, System of Government and Ending of Transition through operationalizing Garowe I (Garowe II)",2012-02-07,"Multiparty signed/agreed",9,15646,Intra,SubPar,Iss,"Signatories:
+On behalf of the Transitional Federal Government:
+H.E. Shiekh Sharif Sheikh Ahmed, President of the Transitional Federal Government;
+Hon. Sharif Hassan Sheikh Aden, Speaker of the Transitional Federal Parliament;
+Hon. Dr. Abdiweli Mohamed Ali,  Prime Minister of the Transitional Federal Government;
+
+On behalf of Puntland:
+Hon. Dr. Abdirahman Sheikh Mohamed Mahmud, President of Puntland;
+
+On behalf of Galmudug:
+Hon. Mohamed Ahmed Aalim, President of Galmudug;
+
+On behalf of Ahlu-Sunna Wal Jama'a
+Hon. Khalif Abdulkadir Moalim Nur, Representative of Ahlu-Sunna Wal Jama'a;
+
+On behalf of the Secretary General of the UN for Somalia:
+Hon. Dr. Augustine Mahiga, Special Representative;
+
+[Page 9 has the same signatures in Somali]","under the auspices of the Special Representative of the Secretary General for Somalia.
+7. Special Representative of the Secretary General of the UN for Somalia
+Hon. Dr. Augustine Mahiga
+[Signed]
+
+[Not signatories] The stakeholder principles; Ambassadors from IGAD & AU; Minister of Endowment & Religious Affairs from Djibouti ... ","Page 2, Untitled Preamble,... 4. Whereas the Participants have considered the Transitional Federal Charter, the Djibouti Agreement, the Kampala Accord, the Roadmap, Garowe Principles I and reviewed the Consultative Draft Constitution;
+Whereas, times is of the essence and therefore all relevant parties are hereby directed to immediately, in accordance with the Transitional Federal Charter, the Kampala Accord, the Roadmap, Garowe I, Garowe II;",SOM,,520,,NA,NA,NA,NA,2,0,0,1,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,3,0,1,0,0,1,2,3,0,0,0,1,1,0,2,1,0,0,1,1,0,0,0,0,3,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1
+Somalia/Puntland,Government/territory,87,"Somalia Peace Process","Africa (excl MENA)",1681,1,"The Garowe Principles on the Finalization and Adoption of the Constitution and the End of Transition (Garowe I)",2011-12-24,"Multiparty signed/agreed",4,8070,Intra,SubPar,Iss,"Signatories:
+1. Transitional Federal Government
+President of the Transitional Federal Government
+Hon. Sheikh Sharif
+2. Transitional Federal Parliament
+Speaker of the Transitional Federal Parliament
+Hon. Sharif Hassan Sheikh Aden
+3. Transitional Federal Government
+Prime Minister of the Transitional Federal Government
+Ali Abdiweli Mohamed Ali
+4. Puntland
+President of Puntland
+Dr. Abdirahman Sheikh Mohamed Mohamud
+5. Galmudug
+President of Galmudug
+Mohamed Ahmed Aalim
+6. Ahlu-Sunna Wal Jamaaca
+Representative of Ahlu Sunna Wal Jamaaca
+Sheikh Mohamed Mohamud Yusuf
+7. Deputy Special Representative of the
+Secretary Gegeral of the UN for Somalia
+Christian Manah
+","facilitated by the United Nations, under the auspices of the Special Representative of the Secretary General for Somalia.","Transitional Federal Charter, the Djibouti Agreement, the Kampala Accord and the Roadmap; ",SOM,,520,,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,3,0,1,1,0,3,1,1,0,0,0,1,1,0,2,1,0,0,1,1,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Somalia/Puntland,Government/territory,102,"Somalia-Puntland Peace Process","Africa (excl MENA)",744,1,"Agreement between the TFG and the Puntland Regional State of Somalia (Galkayo Agreement)",2009-08-23,"Multiparty signed/agreed",2,4123,Intra,Imp,ImpMod,"Prime Minister of TFG, signed by Omar Abdurashid Ali Sharmarke; President of Puntland, Abdurahman Mohamed Mohamed 'Farole'",,TFC,SOM,,520,,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"South Sudan",Government/territory,151,"South Sudan: Post-secession Local agreements","Africa (excl MENA)",2286,4,"Agreement on the Resolution of the Conflict in the Gbudue and Maridi States",2016-04-02,"Multiparty signed/agreed",7,9737,IntraLocal,SubComp,FrAg,"1.	THE PARTIES
+
+Hon. Tut Gatluak Manimi
+Presidential Advisor
+For the Government 
+Republic of South Sudan (RSS)
+
+Commander Mbereke John Faustino
+Leader
+For South Sudan National Liberation Movement (SSNLM)
+
+","2.	FOR THE FAITH BASED MEDIATION
+
+Barani Eduardo Hiliboro Kussala
+Bishop and Chairperson of Faith Based Council 
+
+3.	WITNESS TO THIS AGREEMENT
+
+UNMISS Representative
+South Sudan 
+Headquarter
+
+4.	STAKEHOLDERS
+
+Chief Wilson Peni Rikito
+Paramount Chief
+Representative of Traditional Authority
+
+Simple John Bakeaki
+Youth Representative 
+Civil Society Organization
+
+Christine Joseph Ngbaazande
+Representative of Women Group-WES
+","Page 2, Preamble
+COMMITTED to the Agreement on the Cessation of Hostilities and to abandon the culture of revenge including inhuman acts like torture, rampant killing of the innocent and respect for human dignity; 
+...
+AWARE of the need to support the implementation of the Agreement on the Resolution of the Conflict in the Republic of South Sudan for a just and sustainable Peace throughout the country; 
+...
+ACKNOWLEDGING the preliminary Peace Agreement and the need to promote inclusive and democratic society founded on the rule of law; 
+
+Page 5
+4.1 Special Provisions
+...
+4.3 The list of grievances and demands of SSNLM/A states in November 16th 2015 Preliminary agreement have been acknowledged and will be dully and mutually addressed by the Government of South Sudan such as: ",SSD,,626,,11345,NA,NA,NA,2,0,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,3,3,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,1
+"South Sudan/Sudan",Government/territory,109,"Sudanese (North-South) peace process","Africa (excl MENA)",1800,1,"The Interim National Constitution of the Republic of Sudan 2005",2005-07-06,"Multiparty signed/agreed",122,190880,Intra,SubComp,FrCons,"Ahmed Ibrahim Eltahir, Speaker of the National Assembly;
+Hon. Gabriel Mathiang Rok, Speaker of the National Liberation Council of the Sudan People’s Liberation Movement (SPLM), Rumbek - New Sudan;",,"Page 2, PREAMBLE
+We the people of the Sudan
+Grateful to Almighty God who has bestowed upon us the wisdom and will to reach a Comprehensive Peace Agreement that has definitively put an end to the longest running conflict in Africa,
+
+Page 2, PREAMBLE
+We the people of the Sudan
+... Committed to the Comprehensive Peace Agreement of January 2005, guided by the 1998 Constitution and the Sudanese constitutional experience since independence and other relevant experiences,
+
+Page 2, PREAMBLE
+We the people of the Sudan
+... Cognizant of conferences and the initiative of inclusive popular dialogue and agreements of peace and national reconciliation, particularly the Cairo Agreement signed in June 2005, and prospects of other peace agreements to end conflicts in the country,
+
+Page 21, PART THREE, THE NATIONAL EXECUTIVE, CHAPTER II, THE PRESIDENCY OF THE REPUBLIC
+Functions of the President of the Republic
+58 (1) The President of the Republic is the Head of the State and Government and represents the will of the people and the authority of the State; he/she shall exercise the powers vested in him/her by this Constitution and the Comprehensive Peace Agreement and shall, without prejudice to the generality of the foregoing, perform the following functions:-
+
+Page 23, PART THREE, THE NATIONAL EXECUTIVE, CHAPTER II, THE PRESIDENCY OF THE REPUBLIC
+Contesting Acts of the President or the Presidency
+61 Any person aggrieved by an act of the President of the Republic or the Presidency may contest such act:-
+(a) before the Constitutional Court, if the alleged act involves a violation of this Constitution, the Bill of Rights, the decentralized system of government, or the Comprehensive Peace Agreement,
+(b) before a competent court of law, if the allegation is based on other legal grounds.
+
+Page 29, PART THREE, THE NATIONAL EXECUTIVE, CHAPTER IV, THE NATIONAL COUNCIL OF MINISTERS
+Contesting Ministerial Acts
+78. Any person aggrieved by an act of the National Council of Ministers or a national minister may contest such act:
+(a) before the Constitutional Court, if the alleged act involves a violation of this Constitution, the Bill of Rights, the decentralized system of government, or the Comprehensive Peace Agreement,
+
+Page 29, PART THREE, THE NATIONAL EXECUTIVE, CHAPTER V, THE GOVERNMENT OF NATIONAL UNITY
+Objectives of the Government of National Unity
+79. Prior to the elections and notwithstanding Article 70 (1) of this Constitution, the President of the Republic, in consultation with the First Vice President, shall form a Government of National Unity, which shall implement the Comprehensive Peace Agreement, reflecting the need for inclusiveness, the promotion of national unity and the protection of national sovereignty.
+
+Page 30, PART THREE, THE NATIONAL EXECUTIVE, CHAPTER V, THE GOVERNMENT OF NATIONAL UNITY
+Sharing of National Ministerial Portfolios
+81. Portfolios in the National Council of Ministers, as clustered in Appendix (D) of the Comprehensive Peace Agreement, shall be shared equitably and qualitatively in accordance with the provisions of Article 80 above.
+
+Page 30-31, PART THREE, THE NATIONAL EXECUTIVE, CHAPTER V, THE GOVERNMENT OF NATIONAL UNITY
+Duties of the Government of National Unity
+82. The Government of National Unity shall undertake the following duties:-
+... (c) implementation of the Comprehensive Peace Agreement in a manner that makes the unity of the Sudan an attractive option especially to the people of Southern Sudan, and pave the way for the exercise of the right of self-determination according to Part Sixteen of this Constitution,
+
+Page 30-31, PART THREE, THE NATIONAL EXECUTIVE, CHAPTER V, THE GOVERNMENT OF NATIONAL UNITY
+Duties of the Government of National Unity
+82. The Government of National Unity shall undertake the following duties:-
+... (d) implementation of an information campaign throughout the Sudan in all national languages to popularize the Comprehensive Peace Agreement, foster national unity, reconciliation and mutual understanding,
+
+Page 42, PART FOUR, THE NATIONAL LEGISLATURE, CHAPTER I, COMPOSITION AND FUNCTIONING OF THE NATIONAL LEGISLATURE
+Provisional Orders
+109. ... (2) Notwithstanding sub-Article (1) above, the President of the Republic shall not make any provisional order on matters affecting the Comprehensive Peace Agreement, the Bill of Rights, the decentralized system of government, general elections, annual allocation of resources and financial revenues, penal legislations, international conventions or agreements altering the borders of the State.
+
+Page 49-50, PART FIVE, THE NATIONAL JUDICIAL ORGANS, CHAPTER II, THE NATIONAL JUDICIARY
+The National Judicial Service Commission
+129. (1) The President of the Republic, after consultation within the Presidency, shall establish a commission to be known as the National Judicial Service Commission to undertake the overall management of the National Judiciary; its composition and functions shall be prescribed by law in accordance with the provisions of the Comprehensive Peace Agreement.
+
+Page 54, PART EIGHT, INDEPENDENT NATIONAL INSTITUTIONS AND COMMISSIONS
+The National Constitutional Review Commission
+140 (1) The National Constitutional Review Commission shall continue to perform its functions as prescribed by the Comprehensive Peace Agreement.
+
+Page 57-58, PART NINE, ARMED FORCES, LAW ENFORCEMENT AGENCIES AND NATIONAL SECURITY, CHAPTER I, THE NATIONAL ARMED FORCES
+Joint/ Integrated Units
+145. (2) Character, functions, size and deployment of the Joint/Integrated Units shall be governed by the Comprehensive Peace Agreement.
+
+Page 58, PART NINE, ARMED FORCES, LAW ENFORCEMENT AGENCIES AND NATIONAL SECURITY, CHAPTER I, THE NATIONAL ARMED FORCES
+Command and Control of Joint/Integrated Units and Coordination between the Armed Forces
+146. (1) The Joint Defence Board, that shall be established in accordance with the Comprehensive Peace Agreement, shall assume command and control of the Joint/Integrated Units.
+
+Page 58-59, PART NINE, ARMED FORCES, LAW ENFORCEMENT AGENCIES AND NATIONAL SECURITY, CHAPTER II, THE LAW ENFORCEMENT AGENCIES
+The Police
+148. (2) The Police shall be decentralized in accordance with the Comprehensive Peace Agreement as follows:
+(a) The national level, the powers and functions of which shall be prescribed by law in accordance with this Constitution,
+(b) The southern Sudan level, the powers and functions of which shall be prescribed by the Interim Constitution of Southern Sudan and the law,
+(c) The state level, the powers and functions of which shall be prescribed by state constitution and the law,
+
+Page 61, PART TEN, THE NATIONAL CAPITAL
+Administration of the National Capital
+153. (1) The administration of the National Capital shall be representative. The parties signatory to the Comprehensive Peace Agreement shall be adequately represented therein.
+
+Page 65, PART ELEVEN, GOVERNMENT OF SOUTHERN SUDAN, CHAPTER II, THE EXECUTIVE OF SOUTHERN SUDAN
+Southern Sudan Independent Institutions and Commissions
+168. (1) The Government of Southern Sudan shall establish such independent institutions as provided for by the Comprehensive Peace Agreement, this Constitution and the Interim Constitution of Southern Sudan. It shall be empowered to establish such other commissions and institutions compatible with its powers as it deems necessary to promote the welfare of its people, good governance and justice.
+(2) Without prejudice to the generality of sub-Article (1) above, there shall be established at Southern Sudan level, a Southern Sudan Civil Service Commission, Public Grievances and Restitution Board and Employees Justice Chamber; their functions and terms of service shall be regulated by law.
+
+Page 72-73, PART TWELVE, THE STATES AND ABYEI AREA
+Southern Kordofan and Blue Nile States
+182. (1) Without prejudice to any of the provisions of this Constitution, the Agreement on the Resolution of the Conflict in Southern Kordofan and Blue Nile States, shall apply with respect to those two states.
+(2) Agreement on the Resolution of the Conflict in Southern Kordofan and Blue Nile States shall be subject to popular consultation by the people of the two states through their respective democratically elected legislatures in accordance with the provisions stated therein.
+
+Page 73, PART TWELVE, THE STATES AND ABYEI AREA
+Abyei Area
+183. (1) Without prejudice to any of the provisions of this Constitution and the Comprehensive Peace Agreement, the Protocol on the Resolution of the Conflict in Abyei Area shall apply with respect to Abyei Area.
+
+Page 77-78, PART THIRTEEN, FINANCE AND ECONOMIC MATTERS, CHAPTER II, LAND RESOURCES
+Southern Sudan Land Commission
+188. In accordance with this Constitution and without prejudice to the jurisdiction of the courts, there shall be established a Southern Sudan Land Commission which shall have the functions specified in the Comprehensive Peace Agreement and the Interim Constitution of Southern Sudan.
+
+Page 91, PART THIRTEEN, FINANCE AND ECONOMIC MATTERS, CHAPTER IX, TRANSITIONAL PROVISIONS FOR FINANCE AND BANKING
+Existing Oil Contracts
+208. (1) The Sudan People's Liberation Movement representatives appointed to have access to all existing oil contracts, shall finish their functions and duties which are prescribed by the Comprehensive Peace Agreement as soon as practicable.
+(2) The term ""existing oil contracts"" means contracts signed before the date of signature of the Comprehensive Peace Agreement.
+
+Page 96, PART SIXTEEN, SOUTHERN SUDAN RIGHT TO SELF-DETERMINATION
+The Assessment and Evaluation Commission
+221. (1) An independent Assessment and Evaluation Commission shall be established by the President of the Republic with the consent of the First Vice President to monitor the implementation of the Comprehensive Peace Agreement during the interim period.
+(2) The Commission shall conduct a mid-term evaluation of the unity arrangements established under the Comprehensive Peace Agreement.
+(3) The Parties to the Comprehensive Peace Agreement shall work with the Commission during the interim period with a view to improving the institutions and arrangements created under that Agreement and to make the unity of the Sudan attractive to the people of Southern Sudan.
+
+Page 98, PART SEVENTEEN, MISCELLANEOUS PROVISIONS
+Amendment of the Constitution
+224. (2) Any amendment affecting the provisions of the Comprehensive Peace Agreement shall be introduced only with the approval of both Parties signatory to the Comprehensive Peace Agreement.
+
+Page 98, PART SEVENTEEN, MISCELLANEOUS PROVISIONS
+Incorporation of the Comprehensive Peace Agreement
+225. The Comprehensive Peace Agreement is deemed to have been duly incorporated in this Constitution; any provisions of the Comprehensive Peace Agreement which are not expressly incorporated herein shall be considered as part of this Constitution.
+
+Page 99, PART SEVENTEEN, MISCELLANEOUS PROVISIONS
+Transitional and Miscellaneous Provisions
+226. (1) This Constitution is based on the Comprehensive Peace Agreement and the Constitution of the Republic of the Sudan 1998.
+(4) For the purposes of this Constitution and the Comprehensive Peace Agreement, the Interim Period shall commence as from July 9th 2005, and any measures taken or institutions established by the signatories to the Comprehensive Peace Agreement pursuant to the same prior to the adoption of this Constitution shall be deemed to have been taken or established by virtue of this Constitution.",SSD,SDN,626,625,309,,,836,3,1,0,1,0,3,0,1,1,0,3,0,1,1,0,0,0,0,0,0,3,1,1,1,0,3,1,1,1,1,2,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,1,1,1,1,0,1,0,3,1,0,1,0,3,3,2,1,0,1,1,1,3,3,1,1,1,1,0,0,0,0,0,3,1,1,1,0,3,1,0,0,3,1,1,1,0,1,3,3,3,0,1,1,1,3,0,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,3,0,1,0,1,1,0,0,1,0,3,1,1,0,0,3,1,1,1,0,1,1,1,1,1,1,1,1,3,1,0,1,0,1,1,3,3,1,1,0,1,1,1,1,0,1,1,1,0,0,1,1,1,1,1,1,1,1,2,1,0,2,2,2,1,0,3,1,0,1,0,0,1,0,2,0,1,1,0,0,0,0,0,0,0,2,1,1,0,1,1,0,0,0,0,1,1
+"South Sudan/Sudan",Government/territory,109,"Sudanese (North-South) peace process","Africa (excl MENA)",337,1,"Comprehensive Peace Agreement between the Government of the Republic of the Sudan and the Sudan People's Liberation Army/Sudan People's Liberation Movement (Naivasha Agreement)",2005-01-09,"Multiparty signed/agreed",245,368567,Intra,SubComp,FrAg,"H.E. Ali Osman Mohamed Taha, First Vice President of the Republic of the Sudan on behalf of the Government of the Republic of the Sudan; Dr. John Garang de Mabior, Chairman of the Sudan People's Liberation Movement/Sudan People's Liberation Army on behalf of the Sudan People's Liberation Movement/Sudan People's Liberation Army","WITNESSED BY: H.E. Hon. Mwai Kibaki, President of the Republic of Kenya on behalf of the IGAD Sub-Committee on the Sudan; H.E. Hon. Yowaeri Kaguta Museveni, President of the Republic of Uganda on behalf of IGAD Member States; H.E. Mr. Ahmed Aboul Gheit, Egyptian Minister of Foreign Affairs on behalf of the Government of the Republic of Egypt; Senator Alfredo Mantica, Deputy Minister for Foreign Affairs on behalf of the Government of Italy; H.E. Mr. Fred Racka, Special Envoy of the Netherlands on behalf of the Royal Kingdom of the Netherlands; H.E. Ms. Hilde F. Johnson, Minister of International Development on behalf of the Royal Norwegian Government; Right Hon. Hilary Benn, M.P., Secretary of State for International Development on behalf of the United Kingdom and Northern Ireland; Mr. Colin L. Powell, United States Secretary of State, on behalf of the United States of America; H.E. Mr. Alpha Oumar Konare, Chairperson of the African Union on behalf of the African Union; Hon. Charles Goerens, Minister of Development Co-operation of Netherlands on behalf of the European Union; H.E. Ms. Hilde F. Johnson, Minister of International Development on behalf of the IGAD Partners Forum (IPF); Senator Alfredo Mantic, Deputy Minister for Foreign Affairs on behalf of the IGAD Partners Forum (IPF); H.E. Mr. Amre Mousse, Secretary General of the League of Arab States on behalf of the League of Arab States; H.E. Jan Pronk, Special Representative of the Secretary General in the Sudan on behalf of the United Nations","Page 9, Chapeau of the Comprehensive Peace Agreement
+RECORDING AND RECONFIRMING that in pursuance of this commitment the Parties duly reached agreement on the following texts: the Machakos Protocol, dated 20th July, 2002 which is set out in Chapter I of the Comprehensive Peace Agreement (CPA); the Agreement on Security Arrangements, dated 25th September, 2003 which is set out in Chapter VI of the CPA; the Agreement on Wealth Sharing, dated 7th January 2004, which is set out in Chapter II of the CPA; the Protocol on Power Sharing, dated 26th May, 2004, which is set out in Chapter V of the CPA; and the Protocol on the Resolution of the Conflict in Abyei Area, dated 26th May, 2004, which is is set out in Chapter IV of the CPA; and that the Security Council of the United Nations in its Resolution 1574 of 19th November, 2004, took notes of these aforementioned Protocols and Agreements; 
+
+Page 9-10, Chapeau of the Comprehensive Peace Agreement
+RECOGNIZING that the Parties have concluded an Agreement on a Permanent Ceasefire and Security Arrangements Implementation Modalities During the Pre-Interim and Interim Period dated 31st December, 2004, which is set out in Annexure I of the CPA, within the Framework of the Agreement on Security Arrangements of 25th September, 2003; 
+
+Page 10,  Chapeau of the Comprehensive Peace Agreement
+FURTHER RECOGNIZING that the Parties have also concluded the Agreement on the Implementation Modalities of the Protocol and Agreements dated 31st December, 2004 which is set out in Annexure II of the CPA; 
+
+Page 10, Chapeau of the Comprehensive Peace Agreement
+NOW THEREFORE, THE PARTIES AGREE, upon signing this Agreement, on the following: 
+(2) The CPA shall be comprised of the texts of the Protocols and Agreements already signed, together with this Chapeau, the Agreement on Permanent Ceasefire and Security Arrangements Implementaiton Modalities and Appendices as Annexure I and the Agreement on the Implementation Modalities and the Global Implementation Matrix and Appendices as Annexure II; 
+
+Page 17, Chapter I – The Machakos Protocol 
+THE PREAMBLE, PRINCIPLES, AND THE TRANSITION PROCESS
+COMMITTED to a negotiated, peaceful, comprehensive resolution to the conflict based on the Declaration of Principles (DOP) for the benefit of all the people of the Sudan; 
+",SSD,SDN,626,625,309,1282,24,836,3,0,1,1,0,3,0,0,1,0,3,0,0,1,0,0,0,0,0,0,3,1,1,1,0,3,1,1,1,0,2,0,0,1,0,2,0,1,0,0,3,0,1,0,3,0,1,1,0,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,0,1,1,3,1,1,1,0,3,3,3,1,0,1,1,1,3,3,1,1,1,1,1,1,0,0,0,3,1,1,1,1,3,1,1,0,3,1,1,0,0,1,3,3,3,0,1,1,1,3,1,1,1,0,1,1,1,1,1,1,0,1,0,1,1,1,1,1,0,1,1,0,0,0,1,0,0,1,0,3,0,1,0,0,0,0,0,1,0,3,1,1,0,0,2,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,3,3,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,3,1,0,3,3,3,0,1,0,1,1,2,2,2,1,1,0,0,0,0,0,0,0,0,0,2,0,2,1,2,0,1,1,1,1,0,1,1,1
+"South Sudan/Sudan",Government/territory,109,"Sudanese (North-South) peace process","Africa (excl MENA)",270,1,"Agreement on Permanent Ceasefire and Security Arrangements Implementation Modalities between the Government of Sudan (GOS) and the Sudan People's Liberation Movement/People's Liberation Army (SPLM/SPLA) During the Pre-interim and Interim Periods",2004-12-31,"Multiparty signed/agreed",50,63838,Intra,Cea,Ceas,"Lt. Gen. Mohamed Elhassan El Fadil, for the Government of Sudan; Cdr. Taban Deng Gai, for the Sudan People's Liberation Movement/Army","WITNESSED BY: Lt. Gen. Lazaro K. Sum be iy wo (Rtd), Ambassador and Kenya Special Envoy for the Sudan Peace Process 
+","Page 1, Untitled Preamble
+WHEREAS the Government of the Republic of the Sudan and the Sudan People's Liberation Movement/Sudan People's Liberation Army hereinafter referred to as the ""Parties"" have concluded the Agreement on Security Arranements Durin the Interim Period, dated 25th  September, 2003; 
+
+Page 1, Untitled Preamble
+AND WHEREAS the Parties havin met in Nairobi and Naivasha, Kenya, from 27th June 2004 throuh 31st December, 2004 under the auspices of the Inter-Governmental Authority on Development (IGAD) Peace Process to neotiate a Comprehensive and Permanent Ceasefire Areement to supplement the Areement on Security Arranements in order to achieve a Comprehensive Peace Agreement in the Sudan; 
+
+Page 1, Untitled Preamble
+NOW RECORD THAT the Parties have reached specific Agreement on Permanent Ceasefire and Security Arrangements Implementation Modalities during the Pre-Interim and Interim Periods, the initialed text of which is annexed hereto and shall be an integral part of the Comprehensive Peace Agreement. 
+
+Page 3, Preamble
+RECOGNIZE that a viable ceasefire can meaninfully be realized through adherence and commitment to the Machakos Protocol dated 20th July 2002, Agreement on Security Arranements During the Interim Period, dated 25th September 2003, the Protocol on Power Sharing dated 26th May, 2004, Protocol on the Resolution of the Conflict in Southern Kordofan/Nuba Mountains and Blue Nile States dated 26th May 2004 and the Protocol on the Resolution of the Conflict in Abyei Area dated 26th  May 2004; 
+
+Page 3, Preamble
+RECALL the Memorandum of Understanding on Cessation of Hostilities between the GOS and SPLM/A signed on 15th October, 2002 and its addendum of 4th February 2003 that have ushered in periods of tranquility; 
+
+Page 5, Part One - The Ceasefire Arrangements, 2. Entry into Force:
+The Ceasefire Agreement (hereinafter referred to as the Agreement or this Agreement) shall come into effect from the date of signature of the Comprehensive Peace Agreement (that day hereafter referred to as D-Day). 
+
+Page 19, Part One, 15. UN Peace Support Mission
+15.4. For the purpose of monitoring activities related to the ceasefire, the international monitors shall have unrestricted access in accordance with a Status of Forces Agreement (SOFA), which shall be concluded with the United Nations as soon as possible. Such SOFA shall contain the provisions agreed to by the Parties with the United Nations immediately following the conclusion of the Comprehensive Peace Agreement. 
+
+Page 23, Part Two, The Armed Forces, 18. Redeployment:
+18.7. After the JIUs deployment in Abyei, all other forces shall be redeployed outside the area. However, the size JIUs Battalion in Abyei shall conform to JIUs organizational standards according to the Protocol between the Government of Sudan and the Sudan People's Liberation Movement on the Resolution of the Conflict in Abyei Area of 26th  May, 2004. 
+
+Page 30, Part Two, The Armed Forces, 21. Funding of the Armed Forces:
+21.1. During the Interim Period, SAF forces and JIUs shall be funded by the National Government, whereas the SPLA forces shall be funded by the Government of Southern Sudan, subject to the principle of proportional downsizing as per Security Arrangements Protocol and the approval of Southern Sudan Legislature. To meet this obligation, the Government of Southern Sudan shall raise financial resources from both local and foreign sources and seek international assistance. These financial resources shall be channeled through the Bank of Southern Sudan and managed according to the principles of Wealth Sharing Protocol. ",SSD,SDN,626,625,309,,,836,3,1,0,1,0,3,0,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,1,0,1,0,1,1,2,1,0,1,0,1,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,3,1,1,1,0,1,3,1,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,2,1,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,1,0,3,3,3,0,1,0,1,1,2,2,2,0,0,0,0,0,0,0,1,1,0,0,2,0,1,1,0,0,0,1,0,1,0,1,1,1
+"South Sudan/Sudan",Government/territory,109,"Sudanese (North-South) peace process","Africa (excl MENA)",498,1,"Protocol between the Government of the Sudan and the Sudan People's Liberation Movement (SPLM) on Power Sharing",2004-05-26,"Multiparty signed/agreed",63,74270,Intra,SubPar,Iss,"[Uploaded document does not include signatures] The Government of Sudan (GOS) and the Sudan People's Liberation Movement (SPLM) ","[Uploaded document does not include signatures, therefore it is difficult to determine Third Parties]","Comprehensive Peace Agreement between the Government of Sudan and the SPLM/SPLA (09/01/2005); Machakos Protocol (20/07/2002); Framework Agreement on Wealth Sharing During the Pre-interim and Interim Periods between the Govt of the Sudan and the Sudan People’s Liberation Movement/Sudan People’s Liberation Army (07/01/2004)",SSD,SDN,626,625,309,1279,,836,3,0,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,3,0,1,1,0,2,0,0,1,0,2,0,1,0,0,1,0,1,0,2,1,1,0,0,1,1,1,0,0,0,0,1,1,1,1,1,1,1,0,0,1,1,3,1,1,1,0,3,3,2,2,0,1,1,0,3,3,1,1,1,1,1,1,0,0,0,3,1,1,0,0,3,1,0,0,2,0,1,0,0,1,3,1,3,1,1,1,1,3,1,1,1,0,1,1,1,0,1,1,0,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,1,0,3,0,1,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,1,3,1,0,1,1,1,0,2,3,1,0,0,1,1,1,0,0,1,1,0,0,1,1,1,1,1,0,1,1,1,0,0,0,2,2,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,1,0,0,0,1,0,1
+"South Sudan/Sudan",Government/territory,109,"Sudanese (North-South) peace process","Africa (excl MENA)",385,1,"Framework Agreement on Wealth Sharing during the Pre-interim and Interim Periods between the Government of the Sudan (GOS) and the Sudan People's Liberation Movement/Sudan People's Liberation Army (SPLM/A)",2004-01-07,"Multiparty signed/agreed",19,40069,Intra,SubPar,Iss,"For The Government of the Sudan: Hon. Idris Mohamed Abdelgadir;  For: The Sudan People’s Liberation Movement/Army: Cdr. Nhial Deng Nhial
+","WITNESSED BY: Lt. Gen. Lazaro K. Sumbeiywo (Rtd), Special Envoy IGAD Sudan Peace Process and on behalf of the IGAD Envoys","Machakos Protocol; Comprehensive Peace Agreement",SSD,SDN,626,625,309,1310,,836,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,2,0,1,0,0,0,0,0,0,0,2,0,1,0,0,3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,1,0,1,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,0,0,0,0,0,0,1,3,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,1,0,1,1,1,1,2,3,1,0,0,1,1,1,1,0,1,1,1,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,1
+"South Sudan/Sudan",Government/territory,109,"Sudanese (North-South) peace process","Africa (excl MENA)",440,1,"Machakos Protocol",2002-07-20,"Multiparty signed/agreed",9,13716,Intra,SubPar,MultIss,"Government of the Republic of Sudan, Sudan People's Liberation Movement/Sudan People's Liberation Army","Witnessed by Lt Ge Lazaro K. Sumbeiywo, Special Envoy IGAD Sudan Peace Process and on behalf of the IGAD Envoys","Page 2, PREAMBLE, PRINCIPLES, AND THE TRANSITION PROCESS
+COMMITTED to a negotiated, peaceful, comprehensive resolution to the conflict based on the Declaration of Principles (DOP) for the benefit of all the people of the Sudan; 
+",SSD,SDN,626,625,309,1277,,836,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,1,0,0,0,2,1,1,1,0,3,0,0,0,0,0,1,0,1,2,1,0,0,0,0,1,0,0,0,3,1,0,0,0,1,1,0,0,0,0,0,0,0,1,3,1,0,0,0,0,0,3,1,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,2,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+"South Sudan/Sudan",Government/territory,111,"Kordofan - Blue Nile - Abyei process","Africa (excl MENA)",470,1,"Nuba Mountains Ceasefire Agreement on Sudan",2002-01-19,"Multiparty signed/agreed",15,26104,IntraLocal,Cea,Ceas,"FOR THE GOVERNMENT OF THE REPUBLIC OF SUDAN 
+Dr. Mutrif Siddig Ali
+
+FOR THE SUDAN PEOPLES' LIBERATION MOVEMENT/NUBA (SPLM/NUBA) 
+Cdr. Abdul Aziz Adam El Hilu","AS WITNESSES:
+
+FOR THE SWISS CONFEDERATION
+Ambassador Josef Bucher
+
+FOR THE UNITED STATES OF AMERICA
+Col. Cecil Dennis Giddens","Page 1, Preamble, ... 
+RECALLING the agreement reached between our representatives during the meetings which took place in Sudan from the 6th - 13th of December 2001, to immediately observe and extend the current military stand-down and to apply it to the Nuba Mountains to facilitate the negotiation of the cease-fire and the relief and rehabilitation program;",SSD,SDN,626,625,309,NA,NA,836,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,2,0,0,1,0,0,0,0,0,0,2,0,0,1,0,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1,2,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,1,1
+"South Sudan/Sudan/Darfur",Government/territory,109,"Sudanese (North-South) peace process","Africa (excl MENA)",843,1,"Juba Declaration on Dialogue and National Consensus",2009-09-30,"Multiparty signed/agreed",10,18063,Intra,Imp,ExtSub,"36 Participants [Most signatures in Arabic and illegible]
+Ali Hussein Dousha
+",,"Page 3, PREAMBLE 
+...The meeting comes against a backdrop of non-implementation of key provisions of the Comprehensive Peace Agreement (CPA), more especially the conduct of free and fair general elections, holding of referendum on self-determination for the people of Southern Sudan to either confirm unity of Sudan or opt for separation and holding of Abyei referendum on whether Abyei retains its special administrative status in the North or be part of Bahr el Ghazal. The meeting also comes as the simmering crisis in Darfur is intensifying. This underscores the need for extensive dialogue without prior conditions or exclusion of any party with a view to addressing the national crisis Sudan currently faces.
+
+Page 3, PREAMBLE 
+...The aim is to ensure full implementation of all peace agreements and all constitutional arrangements prescribed in the Interim National Constitution (INC), 2005; including respect for human rights and the rule of law, political empowerment of women, conduct of free and fair elections, holding of referendum for the people of Southern Sudan and popular consultation for Southern Kordofan and Blue Nile States. The commitment to resolve the conflict in Darfur is duly emphasized.
+
+Page 3, PREAMBLE 
+...The Leadership Council met on September 26 to adopt the APPC’s agenda and to draw up a set of rules to govern proceedings. The general assembly met on September 27 and listened to keynote speech by the Chairman of SPLM and opening remarks by leaders of 28 political parties and 5 civil society organizations, in addition to an address by a delegation from the Peoples’ Front for Democracy and Justice (PFDJ) of Eritrea. On September 28, the APPC set up 5 working committees to discuss key national issues, namely implementation of all peace agreements, democratic transformation, national reconciliation and healing, economic and social situation in addition to foreign policy.
+
+Page 4, 1. DIALOGUE AND NATIONAL CONSENSUS 
+1.1. The APPC maintains that the process of forging national consensus requires open dialogue without prior conditions or exclusion of any party. The APPC in Juba is the first such process since the signing of all peace agreements, particularly the Comprehensive Peace Agreement (CPA). There is need to continue this free democratic dialogue among all national forces, civil society and women organizations.
+
+Page 4, 2. NATIONAL RECONCILIATION
+2.3. The APPC maintains that achieving the objective referred to in Paragraph 2.2 above demand full implementation of outstanding key provisions of the CPA, more especially the provisions related to democratic transformation.
+
+Page 5, 3. PEACE AGREEMENTS
+3.1. Comprehensive Peace Agreement (CPA) 
+3.1.1. Reaffirms commitment to full implementation of CPA which is essential to sustainable peace and confidence building between the North and South Sudan. In this regard, the APPC resolves the following: 
+3.1.1.1. Holding of referendum on self-determination within the period stipulated in the CPA and Interim National Constitution (INC), 2005; 
+3.1.1.2. Enactment of Referendum Bill during the prorogation of the current National Assembly, with simple majority vote (50%+1) being threshold for either confirming unity of Sudan or opting for secession and providing for all Southern Sudanese to take part in this process; and 
+3.1.1.3. Demarcation of North-South borders prior to the holding of general elections. 
+3.1.2. Emphasizes the importance of bringing all laws in consonance with the INC, 2005 
+3.1.5. Adhering to the CPA provisions on making unity attractive, the APPC decides to set up a working group focused on developing political, economic and cultural programs to promote unity during the remainder of the Interim Period while at the same time guaranteeing respect for separation in the event the people of Southern Sudan opt for it.
+
+Page 6, 3.2 DARFUR CONFLICT 
+3.2.1. Urges the full implementation of Darfur Peace Agreement (DPA), particularly the powersharing, wealth-sharing and security provisions. 
+3.2.9. Calls for the holding of the Darfur-Darfur dialogue conference with the participation of all stakeholders with the view to sorting out Darfuri internal relations and repairing the social fabric destroyed by the civil war. The conference shall be guided by agreed Declaration of Principles (DOP), resulting in comprehensive agreement that shall be acceptable to all Darfurians and endorsed nationally by an all-party conference.
+
+Page 7, 3. PEACE AGREEMENTS, 3.3. Eastern Sudan Peace Agreement (ESPA) 
+3.3.1. The APPC reaffirms its commitment to full implementation of ESPA and to the lifting of state of emergency. 
+3.3.2. The APPC further reiterates its commitment to address the shortcomings of ESPA through the undertaking of complementary political, developmental and remedial measures to resolve the underlying grievances of the people of Eastern Sudan.
+
+Page 7, 3. PEACE AGREEMENTS, 3.4. Cairo Peace Agreement 
+3.4.1. The APPC resolves to expedite the implementation of all provisions of Cairo Peace Agreement, particularly those related to democratic transformation, economic reforms and redress for dismissed employees on political grounds as well as to combating corruption.
+
+Page 7, DEMOCRATIC TRANSFORMATION,
+4.4. Maintains that the results of the 5th Population Census are contested and that pending agreement on the same, CPA power-sharing ratios shall stand. 
+
+Page 9, 6. FOREIGN POLICY 
+6.1. The APPC reaffirms adherence to foreign policy directives, as called for in the CPA and INC, and to the pursuit of foreign policy initiatives predicated on mutual interests and good neighborliness to further Sudan national interests, including, inter alia: 
+6.1.1. Ensuring respect for international conventions; 
+
+Page 9, 7. THE WAY FORWARD 
+7.4. The APPC maintains that Juba Declaration shall be subject to periodic review, particularly in relation to democratic transformation, elections, holding of referendum on self-determination for the people of Southern Sudan, implementation of Abyei Protocol and holding of popular consultation for the people of Blue Nile and South Kordofan States, in addition to finding a just, comprehensive and lasting peace in Darfur.
+",SDN,,625,,309,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,1,1,1,1,0,0,0,2,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,1,0,0,1,1,0,1,3,1,1,1,1,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,1,2,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,2,0,1,0,0,2,1,0,2,0,0,2,0,1,0,1,2,0,0,0,1,1,1
+"South Sudan/Sudan/Southern Kordofan - Blue Nile - Abyei",Government/territory,111,"Kordofan - Blue Nile - Abyei process","Africa (excl MENA)",496,1,"Protocol between the Government of Sudan and the Sudan People's Liberation Movement on the Resolution of Conflict in Southern Kordofan/Nuba Mountains and the Blue Nile States",2004-05-26,"Multiparty signed/agreed",18,22601,Intra,SubPar,MultIss,"Government of Sudan, Sudan's People Lieration Movement (SPLM) [Uploaded document does not contain signatures of Parties or Third Parties]","[Uploaded document does not contain signatures of Parties or Third Parties]","Wealth Sharing Agreement; Agreement on the Security Arrangements",SDN,,625,,309,1281,,836,3,0,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,1,0,2,1,1,1,3,0,1,2,0,0,0,1,0,1,3,1,1,1,1,0,0,0,0,0,3,0,1,1,0,3,1,0,0,0,0,0,0,0,1,2,1,1,0,1,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,1,3,1,0,1,1,1,1,2,3,1,0,0,1,0,1,1,0,1,1,1,0,0,1,1,1,0,0,1,1,1,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,1,1
+"Sri Lanka",Government/territory,114,"Sri Lanka LTTE 2002 onward process","Asia and Pacific",1012,1,"Memorandum of Understanding for the Establishment of a Post-Tsunami Operational Management Structure (P-TOMS)",2005-06-27,"Multiparty signed/agreed",6,12693,Intra,SubPar,Iss,"Government of Sri Lanka and Liberation Tigers of Tamil Eelam",,"2003 Ceasefire",LKA,,780,,352,,,835,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,3,0,1,1,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,2,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,1,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"Sri Lanka",Government/territory,114,"Sri Lanka LTTE 2002 onward process","Asia and Pacific",1010,1,"The LTTE's Proposal for an Agreement to Establish an Interim Self-Governing Authority for the Northeast",2003-10-31,"Unilateral document",7,18741,Intra,Pre,PreMix,"Government of Sri Lanka and the Liberation Tigers of Tamil Eelam","the Royal Norwegian Government",,LKA,,780,,352,,,835,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,2,1,1,0,0,3,0,1,1,0,0,0,0,0,0,2,0,1,0,0,3,1,1,0,2,0,1,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,1,0,0,1,0,0,2,2,0,0,0,0,0,1,3,0,1,0,0,0,0,0,0,0,3,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,2,1,1,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,1,0,1,1,2,2,1,0,0,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1,1,2,1,0,0,0,0,0,0,0,1,0,3,0,0,0,1,0,0,0,0,0,3,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1
+"Sri Lanka",Government/territory,114,"Sri Lanka LTTE 2002 onward process","Asia and Pacific",1154,1,"Tokyo Declaration on Reconstruction and Development of Sri Lanka",2003-06-10,"Multiparty signed/agreed",7,16826,InterIntra,Imp,ImpOth,"Government of Sri Lanka.","Opening statements by:
+Prime Minister of Japan, Mr. Junichiro Koizumi;
+Prime Minister of Sri Lanka, Mr. Ranil Wickremesinghe
+
+Conference co-chairs:
+Minister for Foreign Affairs of Japan, Ms. Yoriko Kawaguchi; 
+State Secretary, the Ministry of Foreign Affairs of Norway, Mr. Olav Kjoerven; 
+Deputy Secretary of State of the United States, Mr. Richard L. Armitage; 
+Mr. Ioannis Theophanopoulos, representing the Presidency of the European Union; 
+Mr. Bernhard Zepter, representing the European Commission
+
+Other representatives:
+Governor of the Central Bank of Sri Lanka, Mr. A.S. Jayawardena;
+
+
+List of representatives from 51 countries and 22 international organizations: 
+Commonwealth of Australia
+Republic of Austria
+People's Republic of Bangladesh
+Kingdom of Belgium
+Federative Republic of Brazil
+Brunei Darussalam
+Kingdom of Cambodia
+Canada
+People's Republic of China
+Kingdom of Denmark
+Arab Republic of Egypt
+Republic of Finland
+French Republic
+Federal Republic of Germany
+Hellenic Greece
+State of the City of Vatican
+Republic of Iceland
+India
+Republic of Indonesia
+Islamic Republic of Iran
+Ireland
+State of Israel
+Republic of Italy
+Japan
+Republic of Korea
+State of Kuwait
+Lao People's Democratic Republic
+Grand Duchy of Luxembourg
+Malaysia
+Kingdom of Nepal
+Kingdom of the Netherlands
+New Zealand
+Kingdom of Norway
+Sultanate of Oman
+Islamic Republic of Pakistan
+Republic of the Philippines
+Portuguese Republic
+Russian Federation
+Kingdom of Saudi Arabia
+Republic of Singapore
+Republic of South Africa
+Spain
+Democratic Socialist Republic of Sri Lanka
+Kingdom of Sweden
+Swiss Confederation
+Kingdom of Thailand
+Ukraine
+United Arab Emirates
+United Kingdom of Great Britain and Northern Ireland
+United States of America
+Socialist Republic of Viet Nam
+
+
+
+
+
+
+European Commission
+Asian Development Bank
+Asian Productivity Organization
+Food and Agriculture Organization of the United Nations
+International Committee of the Red Cross
+International Federation of Red Cross and Red Crescent Societies
+International Fund for Agricultural Development
+International Labor Organization
+International Monetary Fund
+International Organization for Migration
+Multilateral Investment Guarantee Agency
+United Nations Secretariat
+United Nations Human Settlement Programme
+United Nations Development Programme
+United Nations Population Fund
+United Nations High Commissioner for Refugees
+United Nations Children's Fund
+United Nations Educational, Scientific and Cultural Organization
+United Nations Office on Drugs and Crime
+United Nations World Food Programme
+World Health Organization
+World Bank
+",,LKA,,780,,352,,,835,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1
+"Sri Lanka",Government/territory,114,"Sri Lanka LTTE 2002 onward process","Asia and Pacific",1278,1,"Agreed Statement on behalf of the Parties",2003-03-21,"Multiparty signed/agreed",3,6874,Intra,Pre,Prin,"Government of Sri Lanka, Liberation Tigers of Tamil Eelam","Royal Government of Norway","Ceasefire Agreement;",LKA,,780,,352,,,835,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+"Sri Lanka",Government/territory,114,"Sri Lanka LTTE 2002 onward process","Asia and Pacific",1277,1,"First meeting of the sub-committee on gender issues (SGI) held in Kilinochchi",2003-03-06,"Multiparty signed/agreed",2,3492,Intra,Pre,PreMix,"Government of Sri Lanka, represented by Dr. Kumari Jayawardena, Dr. Deepika Udagama, Dr. Fazeela M. Riyaz, Ms. Kumundi Samuel, Ms. Faizun Zackariya;
+
+LTTE, represented by Ms. Thamilini Subramaniam, Ms. Kaaya Somasundram, Ms. Premila Somasyndram, Ms. Suthamathy Sanmugarajah, Ms. Yalisai Balasingham","Norwegian Government facilitator, Dr. Astrid N. Heiberg","Terms of Reference",LKA,,780,,352,,,835,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+"Sri Lanka",Government/territory,114,"Sri Lanka LTTE 2002 onward process","Asia and Pacific",1276,1,"Meeting of the sub-committee on immediate humanitarian and rehabilitation needs in the North and East (SIHRN)",2003-02-28,"Multiparty signed/agreed",2,3181,Intra,Pre,Proc,"Government of Sri Lanka, headed by Mr. Bernard Goonetilleke; Liberation Tigers of Tamil Eelam, headed by Mr. Tamilselvan","Royal Government of Norway, represented by Ambassador Jon Westberg; Ambassador Seiichro Otsuka of Japan participated on behalf of Mr. Yasushi Akashi, principal advisor to the Sub-Committee",,LKA,,780,,352,,,835,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Sri Lanka",Government/territory,114,"Sri Lanka LTTE 2002 onward process","Asia and Pacific",1280,1,"Human Rights issues relating to the peace process",2003-02-08,"Multiparty signed/agreed",7,15981,Intra,Pre,Conf,"Government of Sri Lanka; Liberation Tigers of Tamil Eelam (LTTE)",Norway,,LKA,,780,,352,,,835,3,1,0,1,0,2,0,0,1,0,3,0,0,1,0,0,0,0,0,0,2,0,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,1,1,3,1,1,1,0,1,1,1,0,0,1,0,1,0,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,1,2,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,2,0,0,0,1,0,0,0,1,1,1
+"Sri Lanka",Government/territory,114,"Sri Lanka LTTE 2002 onward process","Asia and Pacific",1273,1,"Advisor Appointed for the Sub-committee on Gender Issues in the Sri Lanka Peace Process",2003-02-05,"Unilateral document",1,2024,InterIntra,Pre,PreOth,"Norwegian Government unilateral announcement, but in response to request by Government of Sri Lanka; Liberation Tigers of Tamil Eelam (LTTE.",,,LKA,,780,,352,,,835,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Sri Lanka",Government/territory,114,"Sri Lanka LTTE 2002 onward process","Asia and Pacific",1161,1,"Accelerated Action on Resettlement and Humanitarian Action, Progress on Human Rights",2003-01-09,"Multiparty signed/agreed",2,7207,Intra,Pre,PreMix,"The Government of Sri Lanka (GOSL) and the Liberation Tigers of Tamil Eelam (LTTE) ","Royal Government of Norway",,LKA,,780,,352,,,835,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,1,1
+"Sri Lanka",Government/territory,114,"Sri Lanka LTTE 2002 onward process","Asia and Pacific",1160,1,"The third sesson of peace talks between the Government of Sri Lanka (GOSL) and the Liberation Tigers of Tamil Eelam (LTTE) (Oslo Communique)",2002-12-05,"Multiparty signed/agreed",2,4905,Intra,Pre,PreMix,"Liberation Tigers of Tamil Eelam (LTTE); Government of Sri Lanka","Royal Government of Norway",,LKA,,780,,352,,,835,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+"Sri Lanka",Government/territory,114,"Sri Lanka LTTE 2002 onward process","Asia and Pacific",1155,1,"Declaration in Support of the Peace Process in Sri Lanka (Oslo Declaration)",2002-11-25,"Multiparty signed/agreed",4,750,InterIntra,Pre,PreOth,"Not signed but expressed to be: 'We, government representatives from the Asia-Pacific region, North America and Europe, meeting in Oslo on 25 November 2002'. . .",,,LKA,,780,,352,,,835,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+"Sri Lanka",Government/territory,114,"Sri Lanka LTTE 2002 onward process","Asia and Pacific",1159,1,"Significant Steps to Restore Normalcy, Improve Security and Address Political Matters",2002-11-03,"Multiparty signed/agreed",2,7628,Intra,Pre,Proc,"Government of Sri Lanka (GOSL) and the Liberation Tigers of Tamil Eelam (LTTE) ",Norway,"Ceasefire Agreement; ",LKA,,780,,352,,,835,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+"Sri Lanka",Government/territory,113,"Sri Lanka Kumaratunga/Devolution Processes ","Asia and Pacific",1007,1,"Sri Lanka Constitution Bill, an Act to Repeal and Replace the Constitution of the Democratic Socialist Republic of Sri Lanka",2000-08-03,"Status unclear",176,56481,Intra,SubComp,FrCons,"Members of the Government of Sri Lanka;
+The Minister of Justice, Constitutional Affairs, Ethnic Affairs and National Integration and the Deputy Minister of Finance.",,,LKA,,780,,352,,,835,3,0,0,1,0,2,0,1,1,0,2,0,1,1,0,0,0,0,0,0,3,1,1,1,0,3,1,1,1,0,0,0,0,0,0,2,0,1,0,0,1,0,1,0,2,0,1,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,1,1,1,1,0,3,0,1,1,0,3,3,3,0,0,0,1,0,3,3,1,0,1,1,0,0,0,0,0,3,1,1,0,0,3,1,0,0,0,0,0,0,0,1,3,3,0,0,0,0,0,3,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1,1,0,1,1,1,1,1,1,0,1,1,1,0,1,2,1,1,0,0,0,0,0,0,1,2,0,1,0,0,3,1,1,1,0,1,1,1,1,1,1,1,0,3,1,0,1,1,1,1,3,3,0,1,0,1,0,1,1,0,1,1,1,1,0,1,1,1,1,0,1,1,1,0,0,0,3,2,0,0,0,0,1,0,3,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Sudan,Government/territory,156,"Sudan Transition Process","Africa (excl MENA)",2243,3,"Political agreement on establishing the structures and institutions of the transitional period between the Transitional Military Council and the Declaration of Freedom and Change Forces ",2019-07-17,"Multiparty signed/agreed",4,8172,Intra,SubPar,MultIss,"Signatures:
+
+The Transitional Military Council
+
+The declaration of Freedom and Change Forces","Witnesses
+
+The African Union
+
+The Federal Democratic Republic of Ethiopia
+
+The United Nations
+
+The European Union
+
+League of Arab States
+
+The United States of America",,SDN,,625,,309,NA,NA,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,1,0,1,0,1,0,0,0,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Sudan,Government/territory,109,"Sudanese (North-South) peace process","Africa (excl MENA)",1060,1,"Agreement between the Government of Sudan and the National Democratic Alliance (NDA) (Cairo Agreement)",2005-06-18,"Multiparty signed/agreed",8,22437,Intra,SubComp,FrAg,"[Uploaded document does not include signatures] The Government of Sudan (GoS) and the National Democratic Alliance (NDA).","[Uploaded document does not include signatures, but the below provision indicates the Government of Egypt mediated]
+
+Page 1, Untitled Preamble,
+Whereas the GoS and the NDA (the Parties to the Agreement) have held a series of rounds of negotiation in Jeddah and Cairo culminating in the Cairo Meeting held from 14-16th June 2005 under the auspices of the Government of Egypt;","Page 1, Untitled Preamble,
+[...] Acknowledging the decision by the two parties that the point of reference between them in these talks is the Framework Agreement signed between them in Jeddah, Saudi Arabia on the 4th December 2003 and the Comprehensive Peace Agreement signed in Nairobi between the GoS and the SPLM/A in January 9th, 2005,
+
+Page 4, 5. Decentralized Government,
+5.1. The Two Parties agree that the federal system of governance is the most appropriate system for governing the Sudan. It enables the people of Sudan to rule themselves and run their own affairs. The parties shall work to support the federal system in compliance to the schedules annexed in the Protocol on Wealth Sharing in confirmation of participation and in a bid to expand development and support the powers of the states. 
+5.2. The Two Parties agree to generalize to all states in the Sudan the model of the peace agreement on federal government as stipulated in the protocols on Power and Wealth Sharing. 
+
+Page 5, 7. Nationalism for the civil services,
+7.1. The Two Parties subscribe to the provisions of Article 2-6 of the Protocol on Power Sharing signed between the GoS and the SPLM concerning public service and that is in a bid to consolidate the independence and impartiality of the public service and in confirmation of its active role. 
+
+Page 5, 8. Nationalism of the Armed and other regular forces,
+8.1. The Two Parties confirm that a peaceful solution and comprehensive resolving of the problems obligate, as per the Jeddah Framework Agreement and the Comprehensive Peace Agreement confirmation of nationalism and professionalism of the armed forces and the other regular forces and the security organs and that they should not be biased on political grounds.",SDN,,625,,309,1351,NA,836,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,0,3,2,2,1,0,1,1,0,1,1,1,1,0,0,0,0,0,0,0,2,1,0,0,0,2,1,0,0,0,0,0,0,0,1,3,3,0,0,0,0,0,3,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,3,1,0,1,1,0,1,0,2,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,2,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,1,1
+Sudan/Darfur,Government/territory,21,"Darfur-Sudan peace process","Africa (excl MENA)",875,1,"Agreement between the Government of Sudan and the Justice and Equality Movement-Sudan on the Basis of the Doha Document for Peace in Darfur",2013-04-06,"Multiparty signed/agreed",13,32326,Intra,Imp,ImpMod,"For the Government of Sudan: Dr. Amin Hassan Omar, Minister of State in the Presidency;
+For the Justice and Equality Movement-Sudan: Mr. Mohammad Bashar Ahmad, President;","Witnessed by: For the State of Qatar: H.E. Ahmad bin Abdallah Al Mahmoud, Deputy Prime Minister and Minister of State for Cabinet Affairs; For the AU-UN Mediation: H.E. Aichatou S. Mindaoudou, Deputy Joint Special Representative (Politcial); Mohamed Ibn Chambas, Joint Special Representative
+","Page 1, Preamble
+...Recalling the relevant paragraphs of Security Council resolutions 2003(2011), 2035(2012), 2063(2012) and 2091(2013) in which the Council invariably welcomes ""the Doha Document for Peace in Darfur as an important step forward in the African Union (AU)-United Nations (UN) Darfur Peace Process""; ""reiterates its full support for efforts to reach a comprehensive and inclusive solution to the conflict in Darfur""; ""demands that all parties to the conflict, including in particular all the non-signatory armed groups engage immediately and without preconditions to make every efforts to reach a permanent ceasefire and comprehensive peace settlement on the basis of the Doha Document for Peace in Darfur (DDPD), in order to bring a stable and durable peace in the region""; stresses ""the necessity articulated in the Doha Document for Peace in Darfur that all parties to the armed conflict in Darfur shall fully and unconditionally accept their obligations under international humanitarian law, international human rights law and relevant Security Council resolutions""; and ""urges (the DDPD parties) to deliver on the commitment made in the Doha Document for Peace in Darfur"";
+
+Page 1, Preamble
+...Recalling further the relevant paragraphs of the African Union Peace and Security Council (PSC) Communiques which welcome the DDPD ""as a positive development that will greatly contribute to the promotion of peace and security in Darfur""; call on the ""Parties to the DDPD to spare no efforts in expediting the implementation of the Agreement""; ""express serious concern at the continued refusal of the hold out groups to engage in the peace process, in spite of the efforts made by the Joint AU/UN Mediation;  and demand that these Movements join the peace process without any further delay and adhere to the DDPD, which has been endorsed by the AU and the larger international community as available basis for achieving lasting peace and stability in Darfur"";
+
+Page 2, Preamble
+...Affirming their commitment to a durable settlement of the conflict on the basis of the DDPD and to the promotion and protection of human rights and fundamental freedoms;
+
+Page 2, Preamble
+...Welcoming the continuing support for the DDPD by the United Nations, the African Union, the League of Arab States, the Organisation of Islamic Cooperation , the European Union and the international community in general;
+
+Page 2, Preamble
+...Reiterating the pressing need for the full and timely implementation of the DDPD;
+
+Page 2, Article 1. Adoption of the Doha Document for Peace in Darfur
+1. The Parties hereby adopt the DDPD and all its annexes, which constitute an integral part thereof, namely the implementation modalities and timelines, and the Protocol on the Participation of the Justice and Equality Movement-Sudan at the Different Levels of Government and on the Integration of its Forces, as initialled by the Parties and the Mediation and which constitutes an integral part of this Agreement.
+
+Page 3, Article 1. Adoption of the Doha Document for Peace in Darfur
+2. The Parties undertake to faithfully deliver on the commitments they made in the DDPD and in this Agreement, to fully implement their provisions and to abide by the timelines thereof.
+
+Page 3, Article 2. Promotion and Protection of Human Rights and Fundamental Freedoms
+4. GOS shall, in accordance with relevant provisions of the DDPD, promote general welfare and economic growth in Darfur through the provision of basic services and infrastructure including water, education, health, electricity and roads as well as enhanced livelihoods.
+
+Page 3, Article 3. General Principles and Criteria for Power Sharing
+8. The Parties reaffirm their commitment to the general principles and criteria enumerated in the DDPD, upon which power sharing shall be based.
+
+Page 3, Article 4. The National Judiciary
+9. The recommendations of the Panel of Experts made pursuant to paragraph 46 of Article 6 of the DDPD shall be urgently implemented by GOS in collaboration with the relevant bodies.
+
+Page 4, Article 5. The National Civil Service
+10. The recommendations of the Panel of Experts made pursuant to paragraph 51 of Article 7 of the DDPD shall be urgently implemented by GOS in collaboration with the relevant bodies, including the DRA.
+11. Affirmative action related to the training and recruitment of people from Darfur into the national civil service, as provided for in paragraph 54 (i-iv) of the DDPD shall be implemented after the signing of this Agreement according to the agreed implementation timelines.
+
+Page 4, Article 6. Armed Forces and Other Regular Forces
+12. A follow-up committee composed of GOS and relevant bodies shall be established to ensure the timely implementation of the provisions contained in paragraphs 57 and 58 of the DDPD related to the representation of the people of Darfur in the Sudanese Armed Forces, military academies and other regular forces.
+
+Page 4, Article 7. Participation of JEM in Power, and in Constitutional and Electoral Processes
+13. JEM shall, in accordance with the provisions of the Protocol on the Participation of the Justice and Equality Movement-Sudan at the Different Levels of Government and on the Integration of its Forces, referred to in Article 1, participate in all the tiers of Government at the national level, the Darfur States level and the locality level, as well as in both organs of the DRA.
+
+Page 4, Article 7. Participation of JEM in Power, and in Constitutional and Electoral Processes
+16. GOS, in collaboration with DRA, shall, within the stipulated time in the DDPD, ensure that all provisions  on affirmative action aimed at redressing imbalance, and those related to adequate representation of the citizens of Darfur in the civil service, State institutions, are fully implemented.
+
+Page 6, Article 11: Payments of Seed Money by GOS
+24. GOS undertakes to pay the entire amount of the seed money for Darfur reconstruction and development as provided for in the DDPD during the period of implementation of the development plan approved by the International Donors' Conference for Darfur in Doha in accordance with DDPD timelines.
+
+Page 6, Article 12: Reconstruction and Development
+26. The DRA shall carry out the review exercise of the development projects as enumerated in paragraph 174 of the DDPD, to assess their feasibility and revive them as appropriate. Other feasible development projects shall be added on the list for execution.
+
+Page 6, Article 12: Reconstruction and Development
+27. Further to paragraph 212 of the DDPD, the Parties shall ensure that the benefits to the local communities affected by the development and exploitation of natural resources, including the employment of local residents and the provision of social services, are incorporated in all contracts to be concluded with investors and development partners in Darfur.
+
+Page 7, Article 14: The Micro-Finance System
+33. The Parties agree to expeditiously establish a micro-finance system in Darfur, as provided for in the DDPD, and to develop it into a viable financing institution
+35. Without prejudice to paragraph 136 of the DDPD, GOS and the DRA shall mandate the institution to develop its internal regulations and procedures.
+36. The small producers referred to in paragraph 131 of Article 19 of the DDPD, shall include returning IDPs, refugees and all the victims of the conflict
+
+Page 8, Article 16: General Principle
+42. The Parties reaffirm their commitment to the general principles enumerated in the DDPD, which shall guide the achievement of durable solutions for the IDPs and refugees, as well as all other victims of the conflict
+
+Page 9, Article 17: Compensation and Durable solution
+43. The Parties shall expeditiously take measures to commence the payment of compensation to returning IDPs, refugees as well as all other victims of the conflict, in accordance with relevant paragraphs of Articles 43, 52 and 57 of the DDPD.
+44. GOS and the DRA shall, upon the signing of this Agreement, empower the VRRC to enable it to start implementing its mandate as stipulated in the DDPD. GOS shall, in this regard, immediately allocate funds for the VRRC to commence payment of the lump sum of $250.00 to returning families as part of the return package provided for in the DDPD.
+
+Page 9, Article 20: General Principles
+49. The Parties reaffirm their commitment to the general principles enumerated in the DDPD, upon which justice and reconciliation shall be based.
+
+Page 10, Article 21: National Judicial System
+50. Without prejudice to Article 60 and further to paragraph 295 of the DDPD, GOS shall immediately lift immunities enjoyed by persons by virtue of their official status or functions when requested by the national justice institutions.
+
+Page 10, Article 21: National Judicial System
+51. No special/extraordinary courts other than the Special Court for Darfur provided for in Article 59 of the DDPD shall be established because of the conflict in Darfur. Any such existing court shall be closed.
+
+Page 10, Article 24: Amnesty
+56. Without prejudice to paragraph 330 of Article 60 of the DDPD, GOS shall, upon the signing of this Agreement, issue general amnesty for JEM combatants and members, in accordance with the Constitution and national law.
+
+Page 11, Article 25: General Principles
+58. The Parties reaffirm their commitment to the Ceasefire Agreement signed in Doha on 10 February 2013, and to the general principles enumerated under Article 62 of the DDPD, upon which the Permanent Ceasefire and the Final Security Arrangements shall be based.
+
+Page 11, Article 26: Provision of Non Military Logistic Support to JEM Combatants
+59. The Parties stress the necessity for the provision of Non Military Logistic Support (NMLS) to JEM combatants. In this regard, GOS undertakes to provide such support, covering the period from the signing of this Agreement to the conduct of the verification of JEM forces locations and strength. This initial support shall be provided through an arrangement agreed upon by the Parties. After the conduct of the verification, NMLS shall be provided on the basis of paragraphs 393 and 394 of the DDPD.
+60. The Parties shall be adequately represented in the Joint Logistics Coordination Committee (JLCC) as provided for in paragraph 410 Article 69 of the DDPD.
+
+Page 11, Article 27: Establishment of the Joint Coordination Mechanism (JCM)
+61. The Parties stress the necessity to establish, without further delay, the Joint Coordination Mechanism (JCM) as provided for in paragraph 403 Article 67 of the DDPD and shall, in this regard, agree on its composition.
+
+Page 11, Article 28: Disarmament of Armed Militia Groups
+62. The Parties reiterate the critical necessity for the disarmament of armed militia as a key element of the Final Security Arrangements and that the process shall expeditiously take place as provided for in paragraph 399 Article 76 of the DDPD.
+
+Page 11, Article 29: Reform of Some Military Institutions 
+63. The Parties reiterate the importance of reforming and restructuring some military institutions in accordance with paragraphs 463 and 464 Article 74 of the DDPD, and agree that the process shall be expedited.
+
+Page 12, Final Provision
+69. This Agreement is an integral part of the DDPD and shall, therefore, have constitutional status in accordance with paragraph 487 thereof.",SDN,,625,,309,,,927,2,0,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,1,1,2,1,1,1,0,0,1,0,0,0,0,2,0,1,0,1,2,1,0,0,1,0,0,1,0,1,3,0,1,1,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,3,1,0,1,1,1,1,3,1,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,1,2,0,1,0,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,2,0,1,0,1,1,1,1,0,1,0,1
+Sudan/Darfur,Government/territory,21,"Darfur-Sudan peace process","Africa (excl MENA)",880,1,"Ceasefire Agreement between the Government of Sudan and the Justice and Equality Movement-Sudan (JEM)",2013-02-10,"Multiparty signed/agreed",14,45352,Intra,Cea,Ceas,"For the Government of Sudan: Dr. Amin Hassan Omar, Minister of State in the Presidency;
+For the Justice and Equality Movement Sudan: Mr. Arko Sulaiman Dahiya, Vice President/Head of Delegation;
+","Witnessed by:
+
+For the State of Qatar: H.E. Ahmad bin Abdallah Al Mahmoud, Deputy Prime Minister and Minister of State for Cabinet Affairs;
+For the AU-UN Mediation: Ms. Aichatou S. Mindaoudou, Acting Joint Special Representative/Joint Chief Mediator ad interim;","Page 1, PREAMBLE
+...Taking into consideration the Interim National Constitution of the Republic of the Sudan of 2005, the Agreement of Goodwill and Confidence Building for the Settlement of the Problem in Darfur of 17 February 2009, the Framework Agreement between the Government of Sudan and the Justice and Equality Movement to Resolve the Conflict in Darfur of 23 February 2010, the Doha Document for Peace in Darfur (""DDPD""), and the Declaration of Cessation of Hostilities and Commitment to the Peace Process by the Government of Sudan and the Justice and Equality Movement Sudan signed on 22 October 2012;
+
+Page 2, PREAMBLE
+...Resolved to negotiate final security arrangements on the basis of the DDPD; Determined to respect all international conventions, charters, resolutions, and protocols ratified by Sudan; 
+
+Page 3, PREAMBLE
+...Recalling the Declaration of Cessation of Hostilities and Commitment to the Peace Process by the Government of Sudan and the Justice and Equality Movement Sudan, signed on 22 October 2012, in which the Parties agreed to ""resume negotiations in order to achieve a comprehensive settlement of the conflict on the basis of the DDPD"";
+
+Page 3, THE PARTIES HEREBY
+(2) Agree to implement the ceasefire in accordance with the DDPD, and the following general principles:
+
+Page 4, THE PARTIES HEREBY
+(3) Agree to negotiate, on the basis of the DDPD, permanent ceasefire and final security arrangements which shall form an integral part of a protocol to be signed by the Parties.
+
+Page 4, THE PARTIES HEREBY
+(4) Agree to immediately cease and refrain from any:
+c) Offensive, provocative or retaliatory actions, including hostile propaganda and the unauthorised redeployment and movement of forces against another Party or any Movement Party to the Darfur Peace Agreement (DPA), signed on 5 May 2006 in Abuja, Nigeria or against the signatories to the Declaration of Commitment to the DPA (DoC DPA), signed thereafter.
+
+Page 5, THE PARTIES HEREBY
+(4) Agree to immediately cease and refrain from any:
+k) Other activities that could endanger or undermine the Parties' commitment to a complete and durable cessation of hostilities, including those activities that would be determined to be a violation of the ceasefire based on this Agreement; hostile propaganda against another Party or any armed group party to the DPA.",SDN,,625,,309,,,927,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,1,0,1,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,1,1,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,1
+Sudan/Darfur,Government/territory,21,"Darfur-Sudan peace process","Africa (excl MENA)",853,1,"Doha Document for Peace in Darfur (DDPD)
+",2011-05-31,"Multiparty signed/agreed",106,193468,Intra,SubComp,FrAg,"Not signed, parties known to be Darfur Stakeholders in attendance at the All Darfur Stakeholders Conference in May 2011","The follow-up implementation agreement is signed by Joint Special Representative for AU/UN Mediation, however it is unclear whether this agreement was signed","Page 8, PREAMBLE
+Reiterating their commitment to the National Constitution of the Republic of Sudan of 2005, to the full implementation of the Comprehensive Peace Agreement of January 2005, and to the African Union Decisions and United Nations Security Council Resolutions (UNSCR) concerning the need to reach a political solution in order to bring the conflict in Darfur to an end; 
+
+Page 8, PREAMBLE
+Recalling the previous agreements on the conflict in Darfur, in particular the Humanitarian Ceasefire Agreement on the Conflict in Darfur & Protocol on the Establishment of Humanitarian Assistance in Darfur of 8 April, 2004, N’Djamena, Chad; the Agreement with the Sudanese Parties on the Modalities for the Establishment of the Ceasefire Commission and the Deployment of Observers in Darfur of 28 May 2004, Addis Ababa, Ethiopia; the Protocol between the Government of Sudan, The Sudan Liberation Movement / Army and the Justice and Equality Movement on the Improvement of the Humanitarian Situation in Darfur of 9 November, 2004, Abuja, Nigeria; the Protocol between the Government of Sudan, The Sudan Liberation Movement / Army and the Justice and Equality Movement on the Enhancement of the Security Situation in Darfur in accordance with the N’Djamena Agreement of 9 November, 2004, Abuja, Nigeria; the Declaration of Principles for the Resolution of the Sudanese Conflict in Darfur of 5 July, 2005, Abuja, Nigeria; the Darfur Peace Agreement (DPA) of 5 May, 2006, Abuja, Nigeria; the Goodwill Agreement between the Government of Sudan and the Justice and
+Equality Movement, 17 February 2009, Doha, Qatar; the Framework Agreement between the Government of Sudan and the Justice and Equality Movement, 23 February 2010, Doha, Qatar; the Framework Agreement between the Government of Sudan and the Liberation and Justice Movement, 18 March 2010, Doha, Qatar; the Ceasefire Agreement between the Government of Sudan and the Liberation and Justice Movement, 18 March 2010, Doha, Qatar;
+
+Page 14, CHAPTER II — POWER SHARING AND ADMINISTRATIVE STATUS OF DARFUR, ARTICLE 2: GENERAL PRINCIPLES OF POWER SHARING 
+29. Without prejudice to the provisions of the Comprehensive Peace Agreement (CPA) relating to the North-South border and any international agreements in force between the Republic of Sudan and neighbouring countries, the northern boundaries of Darfur shall return to their positions of 1 January 1956.  
+
+Page 38, CHAPTER III, ARTICLE 33
+182. Since the people of Darfur did not benefit from the 1925 Land Settlement and Registration Ordinance, priority shall be given to modifying the laws to include rights to land and its use (hawakeer) in conformity with customs, traditions and heritage on land ownership, traditional livestock routes and access opportunities to water sources.
+
+Page 45, CHAPTER IV - COMPENSATION, RETURN OF INTERNALLY DISPLACED PERSONS AND REFUGEES
+ARTICLE 42: GENERAL PRINCIPLES FOR COMPENSATION AND THE RETURN OF INTERNALLY DISPLACED PERSONS AND REFUGEES 
+216. The commitment of the Parties to the obligations concerning internally displaced persons and refugees set forth in the Framework Agreements between the Government of Sudan and the Justice and Equality Movement, 23 February 2010, and the Framework Agreement between the Government of Sudan and the Liberation and Justice Movement, 18 March 2010, specifically, the right of internally displaced persons and refugees to return voluntarily to their homes of origin and the responsibilities of the Parties to create the conditions for a conducive environment enabling voluntary return and to assist this return in accordance with a clear-cut strategy.
+
+Page 63, CHAPTER VI: PERMANENT CEASEFIRE AND FINAL SECURITY ARRANGEMENTS, ARTICLE 62: GENERAL PRINCIPLES FOR PERMANENT CEASEFIRE AND FINAL SECURITY ARRANGEMENTS
+334. The importance of facilitating the mandate of UNAMID, including for the protection of civilians, as outlined in UNSCR 1769 (2007) and UNSCR 1935 (2010) respectively, and the Communiqué of the 79th Meeting of the AU PSC; ",SDN,,625,,309,,,927,3,1,1,1,0,2,1,0,1,0,1,1,0,0,0,2,0,0,1,0,3,1,1,1,1,2,0,1,0,0,0,0,0,0,0,2,0,1,0,0,3,0,1,1,2,0,1,0,0,1,1,1,0,0,0,0,1,1,1,1,0,1,0,0,0,1,1,2,1,1,0,3,3,1,0,1,0,1,1,1,3,3,1,1,1,1,1,0,0,0,1,3,1,1,0,1,3,1,0,0,3,1,1,0,0,1,3,3,3,1,1,1,1,3,0,1,1,0,1,1,1,1,0,1,0,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,3,0,1,0,3,0,1,0,1,0,3,1,1,0,0,2,0,1,0,0,1,0,1,0,0,1,1,1,3,1,1,1,1,1,1,3,3,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,3,1,0,3,3,3,0,1,2,1,1,0,2,0,0,1,2,1,1,0,1,1,1,0,3,0,1,3,0,3,1,1,3,1,1,0,1,1,1
+Sudan/Darfur,Government/territory,21,"Darfur-Sudan peace process","Africa (excl MENA)",753,1,"Framework Agreement to Resolve the Conflict in Darfur between the Government of Sudan and the LJM",2010-03-18,"Multiparty signed/agreed",4,11493,Intra,SubPar,MultIss,"For the Government of Sudan (GoS): Dr. Ghazi Salah Eldeen Atabani, Advisor to the president of the Republic of Sudan, Who is in charge of Darfur file;
+For Justice and Liberation Movement (LJM): Dr. Tejani Sisei Mohammed Atem, Chairman of the Liberation and Justice Movement;","Witnessed by:
+For the State of Qatar: Ahmed bin Abdulla Al-Mahmoud, Minister of State for Foreign Affairs and Member of the Cabinet; For the AU-UN Mediation: Djbrill Yipènè Bassolé, Joint Chief Mediator;","Page 1, Untitled Preamble,
+...Taking into consideration the National Constitution of the Republic of the Sudan. and the Comprehensive Peace Agreement (CPA). signed in Naivasha on 9 January 2005, and",SDN,,625,,309,,,927,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,0,1,0,0,0,0,0,0,0,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,1,1
+Sudan/Darfur,Government/territory,21,"Darfur-Sudan peace process","Africa (excl MENA)",754,1,"Ceasefire Agreement between the Government of Sudan and the LJM",2010-03-18,"Multiparty signed/agreed",5,14336,Intra,Cea,Ceas,"For the Government of Sudan (GoS): Dr. Ghazi Salah Eldeen Atabani, Advisor to the president of the Republic of Sudan, Who is in charge of Darfur file;
+
+For Liberation and Justice Movement (LJM): Dr. Tejani Sisei Mohammed Ateem, Chairman of the Liberation and Justice Movement;
+","Witnessed by:
+For the State of Qatar: Ahmed bin Abdulla Al-Mahmoud, Minister of State for Foreign Affairs and Member of the Cabinet, State of Qatar;
+
+For the AU-UN Mediation: Djibril Yipènè Bassolé, AU-UN Joint Chief Mediator for Darfur;","Page 1, PREAMBLE
+...Taking into consideration the Interim National Constitution of the Republic of the Sudan, the Comprehensive Peace Agreement, signed in Naivasha on January 2005, and the Framework Agreement signed in Doha on 18March 2010,
+
+Page 1, PREAMBLE
+...Acknowledging the mandate of the African Union/United Nations Hybrid Operation Mission in Darfur (UNAMID) to monitor, observe the compliance with and verification of the implementation of all ceasefire agreements signed or to be signed in Darfur pursuant to the United Nations Security Council Resolution No. 1769, dated 31 July 2007 (UNSC Resolution), and the Agreement between the United Nations, the African Union and the Government of Sudan concerning the Status of the African Union/United Nations Hybrid Operation in Darfur (Status of Forces Agreement), dated 9 February 2008;
+
+Page 2, PREAMBLE
+...Convinced that the Darfur conflict cannot be resolved militarily and that a durable solution can-only be obtained through an inclusive political process and negotiations and recognizing that the Parties have agreed to negotiate final security arrangements as part of a comprehensive peace agreement in accordance with the Framework Agreement;
+
+Page 3, THE PARTIES HEREBY
+(2) Agree to: 
+a- Immediately cease and refrain from any:
+...
+13. Offensive, provocative or retaliatory actions against any party signatory to the Darfur Peace Agreement (DPA), signed on 5 May 2006 in Abuja, Nigeria or signatories to the Declarations of Commitment to the DPA, signed thereafter;
+...
+15. Hostile propaganda against the other Party or any armed group which is signatory to the Darfur Peace Agreement;
+16. Activity that is prohibited elsewhere in this Agreement and the Framework Agreement; and
+17. Activity that UNAMID or the CFC determine to be a violation of the ceasefire based upon this Agreement and the Framework Agreement;
+
+Page 3, THE PARTIES HEREBY
+(2) Agree to: 
+...
+b. Further undertake to ensure:
+...
+6. That all elements of each of their armed forces armed groups which are signatories to the Darfur Peace Agreement implement the terms of this Agreement and the Framework Agreement;
+
+Page 4, THE PARTIES HEREBY
+(2) Agree to: 
+...
+b. Further undertake to ensure:
+...
+7. That all elements of each of their armed forces armed groups which are signatories to the Darfur Peace Agreement comply with the terms of this. Agreement and the Framework Agreement;",SDN,,625,,309,,,927,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,2,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,0,0,0,0,0,1,0,0,1,1,1
+Sudan/Darfur,Government/territory,21,"Darfur-Sudan peace process","Africa (excl MENA)",699,1,"Chairman's Conclusions from the Arusha Consultations",2007-08-06,"Multiparty signed/agreed",2,4448,Intra,Pre,Prin,"AU Special Envoys for Darfur, Dr. Salim Ahmed Salim
+UN Special Envoys for Darfur, Mr. Jan Eliasson
+'Leading personalities of the Darfur Movements' 
+The regional countries Chad, Egypt, Eritrea and Libya also participated in the meeting. Several Field Commanders were also present.",,"Page 1,
+The Representatives of the Darfur Movements present:
+I. Reaffirmed their commitment to the Road-Map of the Special Envoys for re-energising the political process;",SDN,,625,,309,,,927,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,1
+Sudan/Darfur,Government/territory,21,"Darfur-Sudan peace process","Africa (excl MENA)",350,1,"Darfur Peace Agreement",2006-05-05,"Multiparty signed/agreed",115,198063,Intra,SubComp,FrAg,"For the Government of Sudan: Dr. Magzoub Al Khalifa, Chairman of the Sudan Government Delegation;
+For the Sudan Liberation Movement/Army (SLM/A): Minni Arkou Minawi, Chairman;","Witnessed by:
+Dr. Salim Ahmed Salim, AU Special Envoy and Chief Mediator;
+His Excellency, President Denis Sassou-Nguesso, Current Chairman of the African Union;
+His Excellency, President Olusegun Obasanjo, President of the Federal Republic of Nigeria;
+His Excellency, Professor Alpha Oumar Konare, Chairperson of the African Union Commission;
+Dr. Ali Treki, Representative of the Leader of the Libyan Arab Jamahiriya;
+Mr. Robert Zoellick, Deputy Secretary of State, United States of America;
+Mr. Hilary Benn, Secretary of State for International Development, United Kingdom;
+His Excellency, Jan Pronk, Special Representative of the Secretary-General of the United Nations in the Sudan;
+Pekka Haavisto, European Union;
+Counsellor Zeid Al Sabban, League of Arab States;
+Ambassador Ahmed A. Haggag, Special Envoy of the Arab Republic of Egypt;
+Ambassador Allan Rock, Representative of Canada;
+Dr. Kjell Hodnebo, Representative of Norway;
+Ambassador Henri de Coignac, Special Envoy, France;
+Mrs. Agnes Van Ardenne, Minister for Development Cooperation, Netherlands;","Page 7, PREAMBLE
+...MINDFUL of the previous Agreements on this subject;
+
+Page 7, PREAMBLE
+...NOW THEREFORE, THE PARTIES AGREE: 
+(2) That the following documents shall form part of the Agreement (as Annexures), and shall from this point forward be implemented by the Parties in accordance with the relevant provisions in the Chapters of this Agreement: 
+(a) Agreement on Humanitarian Ceasefire on the Conflict in Darfur, of the 8th day of April 2004 (Annexure 1). 
+(b) Protocol on the Establishment of Humanitarian Assistance of the 8th day of April 2004, N’djamena, Chad (Annexure 2).
+
+Page 8, PREAMBLE
+...
+(c) Agreement with Sudanese Parties on the Modalities for the Establishment of the Ceasefire Commission and the Deployment of Observers in Darfur, of the 28th day of May, 2004 (Annexure 3). 
+(d) Protocol between the Government of the Sudan (GoS), the Sudan Liberation Movement/Army (SLM/A) and the Justice and Equality Movement (JEM) on the improvement of the humanitarian situation in Darfur, of the 9th day of November 2004 (Annexure 4). 
+(e) Protocol between the Government of the Sudan (GOS), the Sudan Liberation Movement/Army (SLM/A) and the Justice and Equality Movement (JEM) on the Enhancement of the Security Situation in Darfur (Annexure 5). 
+(f) Declaration of Principles for the Resolution of the Sudanese Conflict in Darfur, of the 5th day of July 2005 (Annexure 6).
+
+Page 11, CHAPTER ONE: POWER SHARING, ARTICLE 2
+21. The criteria and modalities for the exercise of power or the sharing of power after the elections shall be determined by the result of the elections and in accordance with the provisions of the INC. 
+
+Page 14, CHAPTER ONE: POWER SHARING, ARTICLE 3
+41. There shall be no derogation of the above rights and freedoms except as provided for in the Constitution. The Human Rights Commission provided for in the INC, which shall enjoy full independence, shall monitor the application of the rights and freedoms provided for herein.
+
+Page 14, CHAPTER ONE: POWER SHARING, ARTICLE 3
+42. All existing laws shall be revised in accordance with the provisions of the INC.
+
+Page 15, CHAPTER ONE: POWER SHARING, ARTICLE 5
+45. The institutions at the national level shall consist of: 
+...
+(e) The powers and functions of these institutions and their relationship with each other shall be as set out in the INC.
+
+Page 18, CHAPTER ONE: POWER SHARING, ARTICLE 6
+61. Without prejudice to the provisions of the CPA relating to the North-South border and any international agreements in force between the Republic of the Sudan and neighbouring countries, the northern boundaries of Darfur shall return to the positions as at 1 January 1956. A technical ad hoc team shall be established to carry out demarcation accordingly.
+
+Page 47, CHAPTER THREE: COMPREHENSIVE CEASEFIRE AND FINAL SECURITY ARRANGEMENTS, ARTICLE 22
+214. Cognizant of the debilitating effects of armed conflict, and appreciating the need for a Comprehensive Ceasefire in Darfur, the Parties hereby; 
+(a) Reaffirm their commitment to implement all Agreements and Protocols signed. In particular, the April 2004 N’djamena Agreement, the May 2004 Addis Ababa Agreement, the November 2004 Abuja Protocol on the Enhancement of the Security Situation in Darfur, as well as the July 2005 Declaration of Principles (DoP). 
+...
+(f) Undertake measures to neutralize and disarm the Janjaweed/armed militias in line with UN resolutions 1556 and 1564, the AU Summit Resolutions, the N’djamena Agreement and the November 2004 Abuja Protocol, such that security in Darfur is assured.
+
+Page 48, CHAPTER THREE: COMPREHENSIVE CEASEFIRE AND FINAL SECURITY ARRANGEMENTS, ARTICLE 23
+216. The Agreements signed by the Parties are the 2004 N’djamena Agreement on Humanitarian Ceasefire on the Conflict in Darfur; the 2004 Addis Ababa Agreement with the Sudanese Parties on the Modalities for the Establishment of the Ceasefire Commission and the Deployment of Observers in Darfur; the 2004 Abuja Protocol Between the Government of Sudan, the Sudan Liberation Movement/Army and the Justice and Equality Movement on the Improvement of the Humanitarian Situation in Darfur; and the 2004 Abuja Protocol Between the Government of Sudan, the Sudan Liberation Movement/Army and the Justice and Equality Movement on the Enhancement of the Security Situation in Darfur in accordance with the N’djamena Agreement, hereinafter called “the existing ceasefire agreements.
+
+Page 49, CHAPTER THREE: COMPREHENSIVE CEASEFIRE AND FINAL SECURITY ARRANGEMENTS, ARTICLE 23
+219. This Agreement is intended to strengthen the existing ceasefire Agreements. Where there is any contradiction or inconsistency between this Agreement and the existing ceasefire Agreements, this Agreement shall take precedence and shall prevail.
+
+Page 50, CHAPTER THREE: COMPREHENSIVE CEASEFIRE AND FINAL SECURITY ARRANGEMENTS, ARTICLE 23
+222. Where there is any dispute among the Parties over the interpretation of this Comprehensive Ceasefire or any of the existing ceasefire agreements, the Parties shall endeavour to resolve the dispute by consensus in the Joint Commission.
+
+Page 51, CHAPTER THREE: COMPREHENSIVE CEASEFIRE AND FINAL SECURITY ARRANGEMENTS, ARTICLE 24
+227. The Parties shall also refrain from all activities that are prohibited elsewhere in this Agreement and in the existing ceasefire agreements.
+
+Page 51, CHAPTER THREE: COMPREHENSIVE CEASEFIRE AND FINAL SECURITY ARRANGEMENTS, ARTICLE 24
+228. The Parties shall refrain from all activities that AMIS, the Ceasefire Commission and the Joint Commission determine to be violations of the ceasefire based upon this Agreement and existing ceasefire agreements.
+
+Page 55, CHAPTER THREE: COMPREHENSIVE CEASEFIRE AND FINAL SECURITY ARRANGEMENTS, ARTICLE 25
+257. Without duplicating or impeding existing international coordination and assistance efforts, in the manner stipulated in the 2004 Abuja Protocol on the Improvement of the Humanitarian Situation in Darfur, AMIS shall establish the JHFMU in El Fashir and finalise its terms of reference and modalities within 14 days of the signing of this Agreement. 
+
+Page 57, CHAPTER THREE: COMPREHENSIVE CEASEFIRE AND FINAL SECURITY ARRANGEMENTS, ARTICLE 26
+262. (f) To abide by the Protocol of April 8, 2004 on the Establishment of Humanitarian Assistance in Darfur and the Abuja Protocol of November 9, 2004 on the Improvement of the Humanitarian Situation in Darfur.
+
+Page 57, CHAPTER THREE: COMPREHENSIVE CEASEFIRE AND FINAL SECURITY ARRANGEMENTS, ARTICLE 26
+263. In consultation with the Parties, the Chairperson of the Ceasefire Commission shall establish Demilitarised Zones around IDP camps in Darfur, bearing in mind the Secure Areas determined in the August 2004 Plan of Action signed by the GoS and United Nations.
+
+Page 69, CHAPTER THREE: COMPREHENSIVE CEASEFIRE AND FINAL SECURITY ARRANGEMENTS, ARTICLE 27
+342. The Parties take note of the provisions of the Tripoli Agreement of 8 February 2006 and especially Article 4, which provides that the GoS should ban the presence and stay of rebel elements from the Republic of Chad on the Territory of Sudan.
+
+Page 69, CHAPTER THREE: COMPREHENSIVE CEASEFIRE AND FINAL SECURITY ARRANGEMENTS, ARTICLE 27
+344. In conformity with the decision of the African Union Peace and Security Council, AMIS shall support the Task Force established to implement the Tripoli Agreement.
+
+Page 72, CHAPTER THREE: COMPREHENSIVE CEASEFIRE AND FINAL SECURITY ARRANGEMENTS, ARTICLE 27
+364. The Parties shall unconditionally release all persons detained in relation to the armed conflict in Darfur, other than persons convicted through the due process of law as stipulated in paragraph 6 of UN Security Council Resolution 1556 of 2004. 
+
+Page 115, CHAPTER SIX: IMPLEMENTATION MODALITIES AND TIMELINES,
+ANNEXURE 1: HUMANITARIAN CEASEFIRE AGREEMENT OF 8 APRIL 2004, N’DJAMENA, CHAD;
+ANNEXURE 2: PROTOCOL ON THE ESTABLISHMENT OFHUMANITARIAN ASSISTANCE IN DARFUR OF 8 APRIL 2004, N’DJAMENA, CHAD;
+ANNEXURE 3: AGREEMENT ON THE MODALITIES FOR THE ESTABLISHMENT OF THE CEASEFIRE COMMISSION (CFC) AND THE DEPLOYMENT OF OBSERVERS OF 28 MAY 2004, ADDIS-ABABA, ETHIOPIA;
+ANNEXURE 4: PROTOCOL ON THE IMPROVEMENT OF THE HUMANITARIAN SITUATION IN DARFUR OF 9 NOVEMBER 2004, ABUJA, NIGERIA;
+ANNEXURE 5: PROTOCOL ON THE ENHANCEMENT OF THE SECURITY SITUATION IN DARFUR OF 9 NOVEMBER 2004, ABUJA, NIGERIA;
+ANNEXURE 6: DECLARATION OF PRINCIPLES FOR THE RESOLUTION OF THE SUDANESE CONFLICT IN DARFUR OF 5 JULY 2005, ABUJA, NIGERIA;",SDN,,625,,309,1334,,927,3,1,0,1,0,3,1,1,1,0,3,0,0,1,0,1,1,0,0,0,3,1,1,1,0,3,1,1,1,0,0,0,0,0,0,2,0,1,0,0,3,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,1,1,0,1,0,0,0,1,1,2,0,1,1,0,3,3,1,1,0,1,1,1,3,3,1,1,1,1,1,0,0,0,0,3,1,1,0,1,3,1,0,0,3,1,1,1,0,1,3,3,3,0,1,1,1,3,0,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,0,0,0,0,0,1,0,3,0,1,0,0,2,0,1,0,0,1,1,0,0,0,1,0,1,3,1,1,1,1,1,1,2,3,1,1,0,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,3,1,0,3,3,3,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,1,0,0,2,0,0,0,3,0,1,3,1,1,0,1,1,1
+Sudan/Darfur,Government/territory,21,"Darfur-Sudan peace process","Africa (excl MENA)",94,1,"Declaration of Principles for the Resolution of the Sudanese Conflict in Darfur",2005-07-05,"Multiparty signed/agreed",4,7240,Intra,Pre,Prin,"Mohamed Yousif Abdallah, State Minister for Humanitarian Affairs, Government of the Sudan; Khamis Abdallah Abakar, Vice-President, Sudan Liberation Movement/Army (SLM/A); Ahmed Mohamed Tugod Lissan, Head of Delegation, Justice and Equality Movement (JEM)","Witnessed by: Dr. Salim Ahmed Salim, the AU Special Envoy for the Peace Talks on Darfur on behalf on the Mediation   ","Page 2, PREAMBLE,
+2. Reiterating our commitment to our previous agreements, namely the Humanitarian Ceasefire Agreement signed in N'djamena, Chad, on 8 April 2004 the Agreement on the Modalities for the Establishment of the Ceasefire Commission (CFC) and the Deployment of Observers signed in Addis Ababa, Ethiopia, on 28 May 2004, as well as the Protocols on the Improvement of the Humanitarian Situation in Darfur and on the Enhancement of the Security Situation in Darfur, both signed in Abuja, Nigeria, on 9 November 2004; 
+
+Page 2, PREAMBLE,
+3. Reaffirming our commitment to the full implementation of relevant UN Security Council resolutions and African Union decisions stressing the need to reach a political solution in order to bring the conflict in Darfur to an end; 
+
+Page 2, PREAMBLE,
+8. Recognizing that the signing of the Comprehensive Peace Agreement between the Government of the Sudan (GoS) and the Sudan People's Liberation Movement/Army (SPLM/A), on 9 January 2005, constitutes a significant step towards finding a just, peaceful and lasting solution to the conflict in the Sudan. 
+
+Page 4, Article 14. Agreements reached by the Parties shall be presented to the people of Darfur to secure their support through Darfur - Darfur dialogue and consultation. 
+
+Page 4, Article 16. All Agreements reached by the Parties shall be incorporated into the National Constitution. ",SDN,,625,,309,1554,,927,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,3,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,0,1,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,1
+Sudan/Darfur,Government/territory,21,"Darfur-Sudan peace process","Africa (excl MENA)",91,1,"Protocol between the Government of Sudan, SLM/A and the JEM on the Improvement of the Humanitarian Situation in Darfur",2004-11-09,"Multiparty signed/agreed",5,14273,Intra,Imp,ImpMod,"Government of Sudan signed for by Magzoub el-Khalifa (as Head of Delegation); Justice and Equality Movement signed for by Ahmed Mohmed Tugod Lissan (as Gender Coordinator/Head of Delegation); The Sudan Liberation Movement/Army signed for by Minni Minawi (General Secretary)","Ambassador Oluyemi Adenji, CON, Minister of Foreign Affairs for the Federal Republic of Nigeria and Chair of AU; Ambassador Allam-Mi Ahmad, as the Chadian Co-Mediation; Ambassador Sam B. Bok, as AU Commission;","Humanitarian Ceasefire Agreement, signed in N'djamena, Chad, on 8 Aprii 2004 [hereinafter the N'Djamena Agreement]; Protocol on the Establishment of Humanitarian Assistance in Darfur, and the Agreement on the Modalities for the Establishment of the Ceasefire Commission (CFC) and the Deployment of Observers in Darfur, signed in Addis Ababa, Ethiopia, on 28 May 2004 [hereinafter the Addis Ababa Agreement]; UNSC Resolution 1556 (2004)",SDN,,625,,309,,,927,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+Sudan/Darfur,Government/territory,21,"Darfur-Sudan peace process","Africa (excl MENA)",647,1,"Humanitarian Ceasefire Agreement on the Conflict in Darfur",2004-04-08,"Multiparty signed/agreed",6,15393,Intra,Cea,Ceas,"For the Sudan Liberation Movement/Army (SLM/A): Mini Arkou Minawi, Secretary General; For the Government of the Sudan (GOS): Acherif Ahmad Oumar Badour, Minister for Investment; For the Sudanese Justice and Equality Movement (SJEM): Nasradine Hussein Diffallah, President","[Note: Preamble also mentions that agreement was under the auspices of Idriss Deby, President of the Republic of Chad assisted by the Chairperson of the Commission of the African Union]
+
+For the Tchadian Mediation: Nagoum Yamassoum, Minister of State, Minstry of Foreign Affairs and African Integration; For the African Union: Sam B. Ibok, Representative of the Chairperson of the Commission; Mahamat Saleh Hamid, Deputy Secretary General",,SDN,,625,,309,,,927,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,1,0,0,1,0,0,0,1
+"Sudan/Eastern Sudan",Government/territory,85,"Eastern Sudanese Peace Process","Africa (excl MENA)",373,1,"Eastern Sudan Peace Agreement",2006-06-19,"Multiparty signed/agreed",42,51264,Intra,SubComp,,"Government of Sudan; Eastern Sudan Front Sudan",,"Page 5, PREAMBLE
+NOW THERFORE, THE PARTIES AGREE, upon signing this Agreement, on the following:
+(2) That the following documents shall form part of the Agreement (as Annexes), and shall from this point forward be implemented by the Parties in accordance with the relevant provisions in the Chapters of this
+Agreement:
+(a) Declaration of Principles for the Resolution of the Conflict in Eastern Sudan, of the 19th of June 2006;
+(b) Framework for a five-year Reconstruction and Development Program for Eastern Sudan ;
+(c) Agreement on Providing a Conducive Atmosphere for Peace Atmosphere for Peace, of the 19th June 2006;
+(d) Agreement for implementing the provisions of the Agreement on Providing a Conducive Atmosphere for Peace, of the 30th June 2006;
+(e) Tripoli Agreement of 14th June 2000, signed by the GoS and the Sudan and the Free Lions Organization;
+(f) Implementation agreement for the provisions the Tripoli Agreement of 25th December 2005.
+
+
+Page 10, CHAPTER ONE, POLITICAL ISSUES: GOVERNANCE AND POWER, ARTICLE 7
+17. The criteria and modalities for the exercise of power after the elections shall be determined by the result of the elections and in accordance with the provisions of the INC. 
+
+
+Page 17, CHAPTER TWO, THE ECONOMIC, SOCIAL AND CULTURAL ISSUES, ARTICLE 20
+59. The respective types of income, revenue taxes and other sources of wealth to which the various levels of government are entitled shall be carried as setout in the Interim National Constitution (INC). 
+
+
+Page 20, CHAPTER TWO, THE ECONOMIC, SOCIAL AND CULTURAL ISSUES, ARTICLE 22
+76. The Parties commit themselves to implement the Eastern Sudan Reconstruction and Development Plan as detailed in Annex B below.
+
+
+Page 22, CHAPTER THREE, COMPREHENSIVE CEASEFIRE AND FINAL SECURITY ARRANGEMENTS, ARTICLE 24
+Cognizant of the debilitating effects of armed conflict, and appreciating the need for a Comprehensive Peace Agreement in Eastern Sudan, the Parties hereby: 
+84. Reaffirm their commitment to implement all Agreements signed. In particular, the Declaration of Principles for Resolution of the Conflict in Eastern Sudan and Agreement on Providing a Conducive Atmosphere for Peace of 19th June 2006; and Agreement for implementing the provisions of the Agreement on Providing a Conducive Atmosphere for Peace, signed 30th June 2006. 
+
+
+Page 28, CHAPTER THREE, COMPREHENSIVE CEASEFIRE AND FINAL SECURITY ARRANGEMENTS, ARTICLE 31
+134. The Parties commit themselves to continue the implementation of the Tripoli Agreement signed on 14 June 2000; and its implementation Agreement signed on 14 December 2005.
+
+
+Page 28, CHAPTER THREE, COMPREHENSIVE CEASEFIRE AND FINAL SECURITY ARRANGEMENTS, ARTICLE 32
+136. The CFA and FSA shall be carried as set out in the implementation modalities detailed in “Appendix A”.
+
+
+Page 29, CHAPTER FOUR, CONSULTATIVE CONFERENCE ON EASTERN SUDAN PEACE AGREEMENT, ARTICLE 33
+137. Pursuant to the Declaration of Principles of 19 June 2006 and following up on the consultative meetings that were held by the Eastern Sudan Front on 2-5 July 2006 in Tesseney and by the GoS on 13 July 2006 in Khartoum, the Parties shall jointly convene a Consultative Conference on the Eastern Sudan Peace Agreement ( CCESPA).
+
+
+Page 30, CHAPTER FIVE, IMPLEMENTATION MODALITIES AND TIMELINE, ARTICLE 34
+145. The Parties commit themselves to implement all the provisions of this Agreement faithfully in accordance with the timeframe provided for in “Appendix A”. 
+
+
+Page 31, CHAPTER SIX, GENERAL PROVISIONS, ARTICLE 35
+147. This Agreement shall be incorporated into the INC. 
+",SDN,,625,,309,,,,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,3,0,1,0,0,3,1,1,0,0,0,1,1,2,3,1,1,1,1,1,0,1,0,0,1,1,1,0,0,2,1,1,0,3,1,1,1,0,1,1,1,1,0,0,1,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,2,1,0,0,0,1,1,0,0,1,1,0,1,3,1,0,1,1,1,1,1,2,1,0,0,1,0,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,1,3,1,0,2,2,2,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,1,1,0,0,0,0,1,1
+Yemen,Government/territory,123,"Yemen peace process","Middle East and North Africa",1586,2,"Dhahran al-Janoub Agreements on the Cessation of Hostilities in Yemen for Shabwah, al-Dhali’, al-Baydah, al-Jawf, Ma’rib, Ta’iz and Terms and Conditions",2016-04-10,"Multiparty signed/agreed",11,39876,Intra,Cea,Rel,"General People's Congress, Ansar Allah, Arab Coalition and Internationally recognised Government of Yemen [Hadi]","United Nations
+Certified by the Representative of the Kingdom of Saudi Arabia
+","constitution of the Yemeni Republic and UN Security Council resolution 2216 (2015) and other relevant Security Council resolutions, as well as the outputs of the national dialogue conference and the initiative of the Gulf Cooperation Council",YEM,,678,,230,,,,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,0,0,2,0,0,0,0,1,1,0,0,0,1
+Yemen,Government/territory,123,"Yemen peace process","Middle East and North Africa",798,1,"The Peace and National Partnership Agreement",2014-09-21,"Multiparty signed/agreed",6,19217,Intra,SubPar,MultIss,"Not signed, agreement mentions the following parties as having produced it: all Yemeni constituencies represented in the National Dialogue Conference. It is presumed to include  President Abd Rabbo Mansour Hadi, representatives of Ansarallah and representatives of the Southern Movement. 
+",,,YEM,,678,,230,1535,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,2,1,0,0,0,0,1,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,2,2,1,0,0,1,0,3,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1
